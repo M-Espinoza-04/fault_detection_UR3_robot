@@ -1,0 +1,8 @@
+family,CV PR-AUC,CV sd,train PR-AUC,val PR-AUC,val event recall (<= 30 FA/h),config
+Gradient boosting (HGB),0.4375,0.1836,1.0,0.6041,0.6667,"f.burst=True, f.residual=True, f.temperature=none, f.window=True, m.class_weight=balanced, m.l2_regularization=0.00373, m.learning_rate=0.0564, m.max_iter=271, m.max_leaf_nodes=40, m.min_samples_leaf=32"
+Decision tree,0.1362,0.0393,0.3258,0.2019,0.1667,"f.burst=True, f.residual=True, f.temperature=none, f.window=False, m.ccp_alpha=0.000995, m.max_depth=9, m.min_samples_leaf=39"
+Extra trees,0.3465,0.1794,0.9074,0.1687,0.0833,"f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=17"
+Random forest,0.3538,0.2191,0.972,0.1513,0.0833,"f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=17"
+Logistic regression,0.1864,0.1221,0.2736,0.1491,0.1667,"f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.C=5.07, m.penalty=l2, scale=StandardScaler, select=SelectKBest(k=40)"
+SVM (RBF kernel),0.2116,0.1461,0.2604,0.1159,0.25,"f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=8.91, m.gamma=0.00251, scale=StandardScaler, select=SelectKBest(k=40)"
+k-nearest neighbours,0.2412,0.1557,1.0,0.0757,0.0833,"f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.n_neighbors=8, m.weights=distance, scale=StandardScaler, select=SelectKBest(k=40)"

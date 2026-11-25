@@ -1,0 +1,18 @@
+step,justification,fitted on,applies to
+"Clean names, types, quoted timestamps",Format problems only,-,all rows
+"Drop Unnamed columns, Num",Empty or identifier,-,all rows
+Keep empty rows in the time line; set placeholder Current_J0 = 1.0 to NaN,Removing them glues events together and shifts lags,-,all rows
+"Causal forward fill of sensors (<= 2 s, within segment)",What a real-time system can do; no future value used,-,all rows
+Segments at breaks > 5 s; no window or label across them,Avoid mixing two sessions in a window,-,all rows
+Debounce label: merge events separated by <= 2 rows,"1-2 s holes are label flicker, not a new loss; prevents trivially easy positives",-,label
+"Early-warning target y = onset in (t, t+3]",Predicting the current second detects consequences (leakage),-,label
+Remove rows where a loss is ongoing,The alert must come before the loss,-,label
+6 temperatures -> mean + 60 s warm-up rate,"Pearson r ≥ 0.99, VIF up to 8988; PC1 = 99.9 %",-,features
+"Exclude Robot_ProtectiveStop, cycle counter, timestamp",Other label / encodes time,-,features
+"Lags, differences, rolling mean/std (past 5 s)",Precursors are short (1-6 s),-,features
+Residual to the normal cycle profile at the same position,Removes the cycle shape; signal = deviation,training fold,features (in pipeline)
+"Position in cycle (raw for trees, spline for linear models)",Strong non-monotonic risk profile,training fold (spline),features (in pipeline)
+Median imputation of remaining NaN,Robust to heavy tails,training fold,pipeline
+StandardScaler or RobustScaler (chosen by AutoML),Heavy-tailed currents (high kurtosis),training fold,pipeline
+Class weights instead of SMOTE,SMOTE interpolates between non-independent seconds,training fold,pipeline
+No outlier removal,"All values physically plausible (|speed| <= 2.73 rad/s < UR3 limit 3.14 rad/s, temps 28-45 °C); <= 1.5 % of values beyond 5 sd and they are start/stop dynamics, i.e. signal",-,-

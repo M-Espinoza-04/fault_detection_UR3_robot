@@ -1,0 +1,5312 @@
+{
+ "s1_descriptive_stats": {
+  "columns": [
+   "Unnamed: 0",
+   "count",
+   "mean",
+   "std",
+   "min",
+   "25%",
+   "50%",
+   "75%",
+   "max",
+   "skew",
+   "kurtosis",
+   "normaltest p",
+   "lag-1 autocorr",
+   "effective n",
+   "beyond 5 sd %",
+   "~zero values %"
+  ],
+  "rows": [
+   [
+    "Current_J0",
+    7355.0,
+    -0.0501,
+    0.8291,
+    -6.2478,
+    -0.1951,
+    -0.0809,
+    0.0952,
+    6.8069,
+    0.0359,
+    23.0494,
+    0.0,
+    -0.0223,
+    7691.0,
+    1.43,
+    0.3
+   ],
+   [
+    "Current_J1",
+    7355.0,
+    -2.2979,
+    0.8004,
+    -5.8087,
+    -2.6649,
+    -2.2363,
+    -1.7783,
+    1.0836,
+    -0.5293,
+    2.8641,
+    0.0,
+    0.2717,
+    4212.0,
+    0.0,
+    0.0
+   ],
+   [
+    "Current_J2",
+    7355.0,
+    -1.1994,
+    0.61,
+    -4.172,
+    -1.5528,
+    -1.0771,
+    -0.8387,
+    2.4649,
+    -0.1119,
+    4.5467,
+    0.0,
+    0.1828,
+    5081.0,
+    0.15,
+    0.0
+   ],
+   [
+    "Current_J3",
+    7355.0,
+    -0.6053,
+    0.5149,
+    -3.3331,
+    -0.8309,
+    -0.5712,
+    -0.3884,
+    2.2703,
+    0.3803,
+    4.7339,
+    0.0,
+    0.0479,
+    6683.0,
+    0.07,
+    0.0
+   ],
+   [
+    "Current_J4",
+    7355.0,
+    -0.023,
+    0.6308,
+    -4.7384,
+    -0.1258,
+    -0.0123,
+    0.0861,
+    4.0894,
+    0.1259,
+    14.5733,
+    0.0,
+    -0.0105,
+    7512.0,
+    0.92,
+    0.8
+   ],
+   [
+    "Current_J5",
+    7355.0,
+    0.0009,
+    0.1291,
+    -0.4746,
+    -0.0949,
+    0.0145,
+    0.078,
+    0.3925,
+    -0.13,
+    -0.2668,
+    0.0,
+    0.2968,
+    3988.0,
+    0.0,
+    0.7
+   ],
+   [
+    "Temperature_J0",
+    7355.0,
+    34.9068,
+    2.7621,
+    27.8125,
+    33.0,
+    36.5,
+    37.0625,
+    37.25,
+    -1.0069,
+    -0.3179,
+    0.0,
+    0.9999,
+    37.0,
+    0.0,
+    0.0
+   ],
+   [
+    "Temperature_J1",
+    7355.0,
+    37.6596,
+    3.2473,
+    29.3125,
+    35.375,
+    39.6875,
+    40.125,
+    40.5,
+    -1.0127,
+    -0.3232,
+    0.0,
+    0.9999,
+    37.0,
+    0.0,
+    0.0
+   ],
+   [
+    "Temperature_J2",
+    7355.0,
+    38.0641,
+    3.3119,
+    29.375,
+    35.75,
+    40.1875,
+    40.4375,
+    40.9375,
+    -1.0481,
+    -0.2333,
+    0.0,
+    0.9999,
+    37.0,
+    0.0,
+    0.0
+   ],
+   [
+    "Temperature_J3",
+    7355.0,
+    40.937,
+    3.1824,
+    32.125,
+    38.9375,
+    43.0625,
+    43.125,
+    43.4375,
+    -1.1435,
+    0.0601,
+    0.0,
+    0.9999,
+    37.0,
+    0.0,
+    0.0
+   ],
+   [
+    "Temperature_J4",
+    7355.0,
+    42.6052,
+    3.6777,
+    32.25,
+    40.375,
+    45.0625,
+    45.1875,
+    45.375,
+    -1.1711,
+    0.1431,
+    0.0,
+    0.9999,
+    37.0,
+    0.0,
+    0.0
+   ],
+   [
+    "Temperature_J5",
+    7355.0,
+    41.8911,
+    3.68,
+    32.0,
+    39.5,
+    44.375,
+    44.5,
+    44.9375,
+    -1.0852,
+    -0.1401,
+    0.0,
+    0.9999,
+    37.0,
+    0.0,
+    0.0
+   ],
+   [
+    "Speed_J0",
+    7355.0,
+    0.0017,
+    0.1488,
+    -0.6563,
+    -0.0005,
+    0.0,
+    0.0021,
+    0.7919,
+    0.2005,
+    7.4896,
+    0.0,
+    -0.0253,
+    7737.0,
+    0.29,
+    51.1
+   ],
+   [
+    "Speed_J1",
+    7355.0,
+    0.0001,
+    0.0494,
+    -0.3308,
+    -0.0007,
+    0.0,
+    0.0005,
+    0.6155,
+    2.0047,
+    17.543,
+    0.0,
+    -0.1384,
+    9718.0,
+    0.56,
+    53.4
+   ],
+   [
+    "Speed_J2",
+    7355.0,
+    0.0038,
+    0.7294,
+    -2.7331,
+    -0.0041,
+    0.0,
+    0.0002,
+    2.6798,
+    0.0839,
+    8.7581,
+    0.0,
+    -0.0115,
+    7526.0,
+    0.0,
+    48.7
+   ],
+   [
+    "Speed_J3",
+    7355.0,
+    -0.0046,
+    0.36,
+    -1.2715,
+    -0.0054,
+    0.0,
+    0.0099,
+    1.3631,
+    -0.0027,
+    2.4964,
+    0.0,
+    -0.0922,
+    8850.0,
+    0.0,
+    45.6
+   ],
+   [
+    "Speed_J4",
+    7355.0,
+    -0.0008,
+    0.0384,
+    -0.2262,
+    -0.0001,
+    0.0,
+    0.0001,
+    0.1939,
+    -0.066,
+    14.3555,
+    0.0,
+    0.0056,
+    7273.0,
+    0.82,
+    61.0
+   ],
+   [
+    "Speed_J5",
+    7355.0,
+    0.0029,
+    0.314,
+    -1.6297,
+    -0.0008,
+    0.0,
+    0.0129,
+    1.378,
+    -0.1974,
+    4.8352,
+    0.0,
+    -0.167,
+    10304.0,
+    0.1,
+    47.1
+   ],
+   [
+    "Tool_current",
+    7355.0,
+    0.1095,
+    0.0788,
+    0.0202,
+    0.0824,
+    0.0852,
+    0.0895,
+    0.6021,
+    3.9108,
+    15.3652,
+    0.0,
+    0.0293,
+    6936.0,
+    0.39,
+    0.0
+   ]
+  ],
+  "index": [
+   "Current_J0",
+   "Current_J1",
+   "Current_J2",
+   "Current_J3",
+   "Current_J4",
+   "Current_J5",
+   "Temperature_J0",
+   "Temperature_J1",
+   "Temperature_J2",
+   "Temperature_J3",
+   "Temperature_J4",
+   "Temperature_J5",
+   "Speed_J0",
+   "Speed_J1",
+   "Speed_J2",
+   "Speed_J3",
+   "Speed_J4",
+   "Speed_J5",
+   "Tool_current"
+  ]
+ },
+ "s1_imbalance_by_horizon": {
+  "columns": [
+   "horizon N (s)",
+   "predictable rows",
+   "positives",
+   "prevalence %",
+   "imbalance ratio",
+   "events announced"
+  ],
+  "rows": [
+   [
+    1,
+    7090,
+    69,
+    0.97,
+    "1:102",
+    69
+   ],
+   [
+    2,
+    7086,
+    140,
+    1.98,
+    "1:50",
+    71
+   ],
+   [
+    3,
+    7082,
+    209,
+    2.95,
+    "1:33",
+    71
+   ],
+   [
+    4,
+    7078,
+    279,
+    3.94,
+    "1:24",
+    71
+   ],
+   [
+    5,
+    7074,
+    347,
+    4.91,
+    "1:19",
+    71
+   ]
+  ],
+  "index": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5"
+  ]
+ },
+ "s1_missingness_tests": {
+  "columns": [
+   "test",
+   "table",
+   "p-value"
+  ],
+  "rows": [
+   [
+    "empty rows vs session (Fisher)",
+    "[[4496, 2859], [44, 10]]",
+    0.0018379796554946
+   ],
+   [
+    "empty rows vs <= 10 s before an onset (Fisher)",
+    "[[6644, 711], [47, 7]]",
+    0.3597668837149145
+   ]
+  ],
+  "index": [
+   "empty rows vs session (Fisher)",
+   "empty rows vs <= 10 s before an onset (Fisher)"
+  ]
+ },
+ "s1_preprocessing_proposal": {
+  "columns": [
+   "step",
+   "justification",
+   "fitted on",
+   "applies to"
+  ],
+  "rows": [
+   [
+    "Clean names, types, quoted timestamps",
+    "Format problems only",
+    "-",
+    "all rows"
+   ],
+   [
+    "Drop Unnamed columns, Num",
+    "Empty or identifier",
+    "-",
+    "all rows"
+   ],
+   [
+    "Keep empty rows in the time line; set placeholder Current_J0 = 1.0 to NaN",
+    "Removing them glues events together and shifts lags",
+    "-",
+    "all rows"
+   ],
+   [
+    "Causal forward fill of sensors (<= 2 s, within segment)",
+    "What a real-time system can do; no future value used",
+    "-",
+    "all rows"
+   ],
+   [
+    "Segments at breaks > 5 s; no window or label across them",
+    "Avoid mixing two sessions in a window",
+    "-",
+    "all rows"
+   ],
+   [
+    "Debounce label: merge events separated by <= 2 rows",
+    "1-2 s holes are label flicker, not a new loss; prevents trivially easy positives",
+    "-",
+    "label"
+   ],
+   [
+    "Early-warning target y = onset in (t, t+3]",
+    "Predicting the current second detects consequences (leakage)",
+    "-",
+    "label"
+   ],
+   [
+    "Remove rows where a loss is ongoing",
+    "The alert must come before the loss",
+    "-",
+    "label"
+   ],
+   [
+    "6 temperatures -> mean + 60 s warm-up rate",
+    "Pearson r \u2265 0.99, VIF up to 8988; PC1 = 99.9 %",
+    "-",
+    "features"
+   ],
+   [
+    "Exclude Robot_ProtectiveStop, cycle counter, timestamp",
+    "Other label / encodes time",
+    "-",
+    "features"
+   ],
+   [
+    "Lags, differences, rolling mean/std (past 5 s)",
+    "Precursors are short (1-6 s)",
+    "-",
+    "features"
+   ],
+   [
+    "Residual to the normal cycle profile at the same position",
+    "Removes the cycle shape; signal = deviation",
+    "training fold",
+    "features (in pipeline)"
+   ],
+   [
+    "Position in cycle (raw for trees, spline for linear models)",
+    "Strong non-monotonic risk profile",
+    "training fold (spline)",
+    "features (in pipeline)"
+   ],
+   [
+    "Median imputation of remaining NaN",
+    "Robust to heavy tails",
+    "training fold",
+    "pipeline"
+   ],
+   [
+    "StandardScaler or RobustScaler (chosen by AutoML)",
+    "Heavy-tailed currents (high kurtosis)",
+    "training fold",
+    "pipeline"
+   ],
+   [
+    "Class weights instead of SMOTE",
+    "SMOTE interpolates between non-independent seconds",
+    "training fold",
+    "pipeline"
+   ],
+   [
+    "No outlier removal",
+    "All values physically plausible (|speed| <= 2.73 rad/s < UR3 limit 3.14 rad/s, temps 28-45 \u00b0C); <= 1.5 % of values beyond 5 sd and they are start/stop dynamics, i.e. signal",
+    "-",
+    "-"
+   ]
+  ],
+  "index": [
+   "Clean names, types, quoted timestamps",
+   "Drop Unnamed columns, Num",
+   "Keep empty rows in the time line; set placeholder Current_J0 = 1.0 to NaN",
+   "Causal forward fill of sensors (<= 2 s, within segment)",
+   "Segments at breaks > 5 s; no window or label across them",
+   "Debounce label: merge events separated by <= 2 rows",
+   "Early-warning target y = onset in (t, t+3]",
+   "Remove rows where a loss is ongoing",
+   "6 temperatures -> mean + 60 s warm-up rate",
+   "Exclude Robot_ProtectiveStop, cycle counter, timestamp",
+   "Lags, differences, rolling mean/std (past 5 s)",
+   "Residual to the normal cycle profile at the same position",
+   "Position in cycle (raw for trees, spline for linear models)",
+   "Median imputation of remaining NaN",
+   "StandardScaler or RobustScaler (chosen by AutoML)",
+   "Class weights instead of SMOTE",
+   "No outlier removal"
+  ]
+ },
+ "s1_quality_report": {
+  "columns": [
+   "check",
+   "finding",
+   "action"
+  ],
+  "rows": [
+   [
+    "Rows / columns in the file",
+    "7409 rows, 35 columns (11 completely empty)",
+    "Drop the empty columns"
+   ],
+   [
+    "Column names",
+    "1 name(s) with a trailing space: ['cycle ']; 'Temperature_T0' is joint J0",
+    "Strip names, rename T0 -> J0"
+   ],
+   [
+    "Labels stored as text",
+    "grip_lost / Robot_ProtectiveStop are 'VRAI'/'FAUX' strings",
+    "Map to 0/1"
+   ],
+   [
+    "Timestamps",
+    "863 timestamps wrapped in quotes",
+    "Strip quotes, parse as UTC"
+   ],
+   [
+    "Empty sensor rows",
+    "54 rows without sensor values (8 carry a placeholder Current_J0 = 1.0); PS label missing on the same rows; grip_lost = 0 on all of them",
+    "Keep in the time line, never predict on them, causal ffill (<= 2 s) for windows"
+   ],
+   [
+    "Duplicated rows",
+    "4 rows involved, all of them empty rows sharing a cycle number; 0 duplicated measurements",
+    "Nothing to remove"
+   ],
+   [
+    "Sampling",
+    "median interval 1.005 s; 24 intervals of ~2 s (one record skipped)",
+    "Lags are counted in rows (~ seconds)"
+   ],
+   [
+    "Recording breaks",
+    "9 s, 31 s, 18814 s -> 4 continuous segments",
+    "No lag / window / label across a break"
+   ],
+   [
+    "Cycle counter",
+    "decreases 1 time(s): 233 -> 224 between Num 6033 and Num 6034",
+    "Cycles identified by changes of the counter"
+   ],
+   [
+    "Grip-loss label",
+    "243 rows, 77 raw events; 5 pairs separated by only 1-2 normal rows",
+    "Debounce: merge gaps <= 2 rows -> 72 events"
+   ]
+  ],
+  "index": [
+   "Rows / columns in the file",
+   "Column names",
+   "Labels stored as text",
+   "Timestamps",
+   "Empty sensor rows",
+   "Duplicated rows",
+   "Sampling",
+   "Recording breaks",
+   "Cycle counter",
+   "Grip-loss label"
+  ]
+ },
+ "s1_reduction": {
+  "columns": [
+   "analysis",
+   "result"
+  ],
+  "rows": [
+   [
+    "PCA on the 6 temperatures",
+    "PC1 explains 99.85 % of the variance"
+   ],
+   [
+    "PCA on the 19 standardised sensors",
+    "7 components for 90 %, 9 for 95 %"
+   ],
+   [
+    "Max VIF before reduction",
+    "8988 (Temperature_J2)"
+   ],
+   [
+    "Max VIF after temperatures -> mean",
+    "165.3 (Speed_J3)"
+   ]
+  ],
+  "index": [
+   "PCA on the 6 temperatures",
+   "PCA on the 19 standardised sensors",
+   "Max VIF before reduction",
+   "Max VIF after temperatures -> mean"
+  ]
+ },
+ "s1_target_association": {
+  "columns": [
+   "feature",
+   "AUC concurrent (during loss)",
+   "AUC early warning (N=3)",
+   "|AUC-0.5| early",
+   "mutual info (early)",
+   "95% CI early AUC (cycle bootstrap)"
+  ],
+  "rows": [
+   [
+    "Current_J1_rmean5",
+    0.755,
+    0.724,
+    0.224,
+    0.011,
+    "[0.67, 0.78]"
+   ],
+   [
+    "secs_since_last_gl",
+    0.099,
+    0.312,
+    0.188,
+    0.012,
+    "[0.24, 0.39]"
+   ],
+   [
+    "Current_J1_lag2",
+    0.64,
+    0.687,
+    0.187,
+    0.011,
+    "[0.65, 0.73]"
+   ],
+   [
+    "Current_J1_rstd5",
+    0.347,
+    0.338,
+    0.162,
+    0.011,
+    "[0.29, 0.39]"
+   ],
+   [
+    "Current_J1",
+    0.646,
+    0.643,
+    0.143,
+    0.008,
+    "[0.61, 0.68]"
+   ],
+   [
+    "Current_J1_lag1",
+    0.639,
+    0.638,
+    0.138,
+    0.007,
+    "[0.59, 0.69]"
+   ],
+   [
+    "Current_J4_rstd5",
+    0.351,
+    0.371,
+    0.129,
+    0.01,
+    "[0.32, 0.42]"
+   ],
+   [
+    "n_gl_last_120s",
+    0.751,
+    0.625,
+    0.125,
+    0.0,
+    "[0.54, 0.70]"
+   ],
+   [
+    "abs_speed_rstd5",
+    0.527,
+    0.62,
+    0.12,
+    0.003,
+    "[0.56, 0.67]"
+   ],
+   [
+    "Current_J3_rstd5",
+    0.345,
+    0.407,
+    0.093,
+    0.011,
+    "[0.36, 0.46]"
+   ],
+   [
+    "abs_speed_rmean5",
+    0.519,
+    0.588,
+    0.088,
+    0.009,
+    null
+   ],
+   [
+    "Current_J2_rmean5",
+    0.73,
+    0.587,
+    0.087,
+    0.005,
+    null
+   ],
+   [
+    "Current_J2_lag2",
+    0.569,
+    0.584,
+    0.084,
+    0.007,
+    null
+   ],
+   [
+    "Current_J5_diff1",
+    0.501,
+    0.417,
+    0.083,
+    0.005,
+    null
+   ],
+   [
+    "Current_J4_lag1",
+    0.43,
+    0.418,
+    0.082,
+    0.009,
+    null
+   ],
+   [
+    "Current_J3_rmean5",
+    0.454,
+    0.58,
+    0.08,
+    0.009,
+    null
+   ],
+   [
+    "Current_J5_rmean5",
+    0.433,
+    0.579,
+    0.079,
+    0.006,
+    null
+   ],
+   [
+    "abs_speed_diff1",
+    0.44,
+    0.579,
+    0.079,
+    0.002,
+    null
+   ],
+   [
+    "Current_J4",
+    0.398,
+    0.422,
+    0.078,
+    0.007,
+    null
+   ],
+   [
+    "abs_speed",
+    0.526,
+    0.577,
+    0.077,
+    0.001,
+    null
+   ],
+   [
+    "Temperature_J5",
+    0.331,
+    0.423,
+    0.077,
+    0.028,
+    null
+   ],
+   [
+    "Current_J4_lag2",
+    0.453,
+    0.424,
+    0.076,
+    0.01,
+    null
+   ],
+   [
+    "abs_speed_lag2",
+    0.527,
+    0.431,
+    0.069,
+    0.002,
+    null
+   ],
+   [
+    "Current_J4_rmean5",
+    0.411,
+    0.431,
+    0.069,
+    0.008,
+    null
+   ],
+   [
+    "Temperature_J4",
+    0.34,
+    0.439,
+    0.061,
+    0.021,
+    null
+   ],
+   [
+    "Current_J5_rstd5",
+    0.472,
+    0.557,
+    0.057,
+    0.0,
+    null
+   ],
+   [
+    "Current_J2",
+    0.7,
+    0.55,
+    0.05,
+    0.005,
+    null
+   ],
+   [
+    "Current_J5_lag2",
+    0.436,
+    0.548,
+    0.048,
+    0.002,
+    null
+   ],
+   [
+    "Current_J2_lag1",
+    0.654,
+    0.547,
+    0.047,
+    0.003,
+    null
+   ],
+   [
+    "Tool_current",
+    0.485,
+    0.547,
+    0.047,
+    0.0,
+    null
+   ],
+   [
+    "Current_J5",
+    0.434,
+    0.453,
+    0.047,
+    0.004,
+    null
+   ],
+   [
+    "Tool_current_rstd5",
+    0.51,
+    0.544,
+    0.044,
+    0.009,
+    null
+   ],
+   [
+    "Speed_J5",
+    0.65,
+    0.458,
+    0.042,
+    0.007,
+    null
+   ],
+   [
+    "Current_J0",
+    0.501,
+    0.542,
+    0.042,
+    0.006,
+    null
+   ],
+   [
+    "Speed_J4",
+    0.442,
+    0.463,
+    0.037,
+    0.002,
+    null
+   ],
+   [
+    "Current_J2_rstd5",
+    0.421,
+    0.469,
+    0.031,
+    0.007,
+    null
+   ],
+   [
+    "Current_J5_lag1",
+    0.435,
+    0.53,
+    0.03,
+    0.002,
+    null
+   ],
+   [
+    "Temperature_J3",
+    0.361,
+    0.473,
+    0.027,
+    0.028,
+    null
+   ],
+   [
+    "Current_J3_diff1",
+    0.472,
+    0.474,
+    0.026,
+    0.003,
+    null
+   ],
+   [
+    "Current_J0_lag2",
+    0.487,
+    0.525,
+    0.025,
+    0.004,
+    null
+   ],
+   [
+    "Tool_current_lag1",
+    0.494,
+    0.523,
+    0.023,
+    0.001,
+    null
+   ],
+   [
+    "temp_mean_diff60",
+    0.642,
+    0.522,
+    0.022,
+    0.009,
+    null
+   ],
+   [
+    "Speed_J0",
+    0.554,
+    0.521,
+    0.021,
+    0.006,
+    null
+   ],
+   [
+    "Tool_current_rmean5",
+    0.497,
+    0.521,
+    0.021,
+    0.001,
+    null
+   ],
+   [
+    "Tool_current_lag2",
+    0.507,
+    0.48,
+    0.02,
+    0.0,
+    null
+   ],
+   [
+    "Current_J3_lag1",
+    0.466,
+    0.52,
+    0.02,
+    0.009,
+    null
+   ],
+   [
+    "Temperature_J2",
+    0.369,
+    0.481,
+    0.019,
+    0.027,
+    null
+   ],
+   [
+    "pos",
+    0.649,
+    0.518,
+    0.018,
+    0.013,
+    null
+   ],
+   [
+    "abs_speed_lag1",
+    0.55,
+    0.483,
+    0.017,
+    0.002,
+    null
+   ],
+   [
+    "Current_J0_rstd5",
+    0.461,
+    0.516,
+    0.016,
+    0.007,
+    null
+   ],
+   [
+    "temp_mean",
+    0.37,
+    0.484,
+    0.016,
+    0.029,
+    null
+   ],
+   [
+    "Temperature_J1",
+    0.373,
+    0.484,
+    0.016,
+    0.027,
+    null
+   ],
+   [
+    "Current_J0_lag1",
+    0.517,
+    0.514,
+    0.014,
+    0.008,
+    null
+   ],
+   [
+    "Speed_J2",
+    0.526,
+    0.513,
+    0.013,
+    0.003,
+    null
+   ],
+   [
+    "Temperature_J0",
+    0.372,
+    0.487,
+    0.013,
+    0.033,
+    null
+   ],
+   [
+    "Speed_J3",
+    0.401,
+    0.512,
+    0.012,
+    0.004,
+    null
+   ],
+   [
+    "Current_J3_lag2",
+    0.507,
+    0.489,
+    0.011,
+    0.012,
+    null
+   ],
+   [
+    "Speed_J1",
+    0.415,
+    0.492,
+    0.008,
+    0.002,
+    null
+   ],
+   [
+    "Current_J2_diff1",
+    0.563,
+    0.504,
+    0.004,
+    0.008,
+    null
+   ],
+   [
+    "Tool_current_diff1",
+    0.489,
+    0.497,
+    0.003,
+    0.002,
+    null
+   ],
+   [
+    "Current_J1_diff1",
+    0.508,
+    0.503,
+    0.003,
+    0.003,
+    null
+   ],
+   [
+    "Current_J3",
+    0.428,
+    0.497,
+    0.003,
+    0.01,
+    null
+   ],
+   [
+    "Current_J0_rmean5",
+    0.539,
+    0.497,
+    0.003,
+    0.001,
+    null
+   ],
+   [
+    "Current_J0_diff1",
+    0.458,
+    0.499,
+    0.001,
+    0.002,
+    null
+   ],
+   [
+    "Current_J4_diff1",
+    0.524,
+    0.499,
+    0.001,
+    0.004,
+    null
+   ]
+  ],
+  "index": [
+   "Current_J1_rmean5",
+   "secs_since_last_gl",
+   "Current_J1_lag2",
+   "Current_J1_rstd5",
+   "Current_J1",
+   "Current_J1_lag1",
+   "Current_J4_rstd5",
+   "n_gl_last_120s",
+   "abs_speed_rstd5",
+   "Current_J3_rstd5",
+   "abs_speed_rmean5",
+   "Current_J2_rmean5",
+   "Current_J2_lag2",
+   "Current_J5_diff1",
+   "Current_J4_lag1",
+   "Current_J3_rmean5",
+   "Current_J5_rmean5",
+   "abs_speed_diff1",
+   "Current_J4",
+   "abs_speed",
+   "Temperature_J5",
+   "Current_J4_lag2",
+   "abs_speed_lag2",
+   "Current_J4_rmean5",
+   "Temperature_J4",
+   "Current_J5_rstd5",
+   "Current_J2",
+   "Current_J5_lag2",
+   "Current_J2_lag1",
+   "Tool_current",
+   "Current_J5",
+   "Tool_current_rstd5",
+   "Speed_J5",
+   "Current_J0",
+   "Speed_J4",
+   "Current_J2_rstd5",
+   "Current_J5_lag1",
+   "Temperature_J3",
+   "Current_J3_diff1",
+   "Current_J0_lag2",
+   "Tool_current_lag1",
+   "temp_mean_diff60",
+   "Speed_J0",
+   "Tool_current_rmean5",
+   "Tool_current_lag2",
+   "Current_J3_lag1",
+   "Temperature_J2",
+   "pos",
+   "abs_speed_lag1",
+   "Current_J0_rstd5",
+   "temp_mean",
+   "Temperature_J1",
+   "Current_J0_lag1",
+   "Speed_J2",
+   "Temperature_J0",
+   "Speed_J3",
+   "Current_J3_lag2",
+   "Speed_J1",
+   "Current_J2_diff1",
+   "Tool_current_diff1",
+   "Current_J1_diff1",
+   "Current_J3",
+   "Current_J0_rmean5",
+   "Current_J0_diff1",
+   "Current_J4_diff1"
+  ]
+ },
+ "s1_top_correlated_pairs": {
+  "columns": [
+   "var 1",
+   "var 2",
+   "pearson",
+   "spearman"
+  ],
+  "rows": [
+   [
+    "Temperature_J0",
+    "Temperature_J1",
+    0.999,
+    0.998
+   ],
+   [
+    "Temperature_J1",
+    "Temperature_J2",
+    1.0,
+    0.995
+   ],
+   [
+    "Temperature_J0",
+    "Temperature_J2",
+    0.999,
+    0.995
+   ],
+   [
+    "Temperature_J2",
+    "Temperature_J3",
+    0.999,
+    0.97
+   ],
+   [
+    "Temperature_J1",
+    "Temperature_J3",
+    0.998,
+    0.967
+   ],
+   [
+    "Temperature_J0",
+    "Temperature_J3",
+    0.997,
+    0.962
+   ],
+   [
+    "Temperature_J4",
+    "Temperature_J5",
+    0.999,
+    0.941
+   ],
+   [
+    "Temperature_J3",
+    "Temperature_J4",
+    1.0,
+    0.936
+   ],
+   [
+    "Temperature_J2",
+    "Temperature_J4",
+    0.999,
+    0.893
+   ],
+   [
+    "Temperature_J1",
+    "Temperature_J4",
+    0.998,
+    0.887
+   ],
+   [
+    "Temperature_J0",
+    "Temperature_J4",
+    0.996,
+    0.884
+   ],
+   [
+    "Temperature_J3",
+    "Temperature_J5",
+    0.999,
+    0.872
+   ],
+   [
+    "Current_J5",
+    "Speed_J4",
+    0.649,
+    0.854
+   ],
+   [
+    "Temperature_J2",
+    "Temperature_J5",
+    0.998,
+    0.834
+   ],
+   [
+    "Temperature_J1",
+    "Temperature_J5",
+    0.998,
+    0.831
+   ],
+   [
+    "Temperature_J0",
+    "Temperature_J5",
+    0.995,
+    0.828
+   ],
+   [
+    "Speed_J2",
+    "Speed_J3",
+    -0.408,
+    -0.738
+   ],
+   [
+    "Speed_J3",
+    "Speed_J5",
+    -0.895,
+    -0.688
+   ],
+   [
+    "Current_J0",
+    "Current_J4",
+    -0.756,
+    -0.655
+   ],
+   [
+    "Current_J3",
+    "Speed_J3",
+    0.402,
+    0.646
+   ],
+   [
+    "Speed_J2",
+    "Speed_J5",
+    0.539,
+    0.573
+   ],
+   [
+    "Current_J1",
+    "Speed_J0",
+    0.404,
+    0.555
+   ],
+   [
+    "Current_J2",
+    "Speed_J5",
+    0.448,
+    0.547
+   ],
+   [
+    "Current_J0",
+    "Speed_J2",
+    0.357,
+    0.544
+   ],
+   [
+    "Current_J1",
+    "Current_J2",
+    0.646,
+    0.524
+   ]
+  ],
+  "index": [
+   "Temperature_J0",
+   "Temperature_J1",
+   "Temperature_J0",
+   "Temperature_J2",
+   "Temperature_J1",
+   "Temperature_J0",
+   "Temperature_J4",
+   "Temperature_J3",
+   "Temperature_J2",
+   "Temperature_J1",
+   "Temperature_J0",
+   "Temperature_J3",
+   "Current_J5",
+   "Temperature_J2",
+   "Temperature_J1",
+   "Temperature_J0",
+   "Speed_J2",
+   "Speed_J3",
+   "Current_J0",
+   "Current_J3",
+   "Speed_J2",
+   "Current_J1",
+   "Current_J2",
+   "Current_J0",
+   "Current_J1"
+  ]
+ },
+ "s1_variable_dictionary": {
+  "columns": [
+   "variable",
+   "type",
+   "unit",
+   "role",
+   "comment"
+  ],
+  "rows": [
+   [
+    "Num",
+    "integer",
+    "-",
+    "identifier",
+    "row number, dropped"
+   ],
+   [
+    "Timestamp",
+    "datetime (UTC)",
+    "-",
+    "index",
+    "used for ordering, breaks and splits only"
+   ],
+   [
+    "Current_J0",
+    "continuous",
+    "A",
+    "feature",
+    "joint motor current"
+   ],
+   [
+    "Current_J1",
+    "continuous",
+    "A",
+    "feature",
+    "joint motor current"
+   ],
+   [
+    "Current_J2",
+    "continuous",
+    "A",
+    "feature",
+    "joint motor current"
+   ],
+   [
+    "Current_J3",
+    "continuous",
+    "A",
+    "feature",
+    "joint motor current"
+   ],
+   [
+    "Current_J4",
+    "continuous",
+    "A",
+    "feature",
+    "joint motor current"
+   ],
+   [
+    "Current_J5",
+    "continuous",
+    "A",
+    "feature",
+    "joint motor current"
+   ],
+   [
+    "Temperature_J0",
+    "continuous",
+    "\u00b0C",
+    "feature (reduced)",
+    "joint temperature, the 6 are replaced by their mean"
+   ],
+   [
+    "Temperature_J1",
+    "continuous",
+    "\u00b0C",
+    "feature (reduced)",
+    "joint temperature, the 6 are replaced by their mean"
+   ],
+   [
+    "Temperature_J2",
+    "continuous",
+    "\u00b0C",
+    "feature (reduced)",
+    "joint temperature, the 6 are replaced by their mean"
+   ],
+   [
+    "Temperature_J3",
+    "continuous",
+    "\u00b0C",
+    "feature (reduced)",
+    "joint temperature, the 6 are replaced by their mean"
+   ],
+   [
+    "Temperature_J4",
+    "continuous",
+    "\u00b0C",
+    "feature (reduced)",
+    "joint temperature, the 6 are replaced by their mean"
+   ],
+   [
+    "Temperature_J5",
+    "continuous",
+    "\u00b0C",
+    "feature (reduced)",
+    "joint temperature, the 6 are replaced by their mean"
+   ],
+   [
+    "Speed_J0",
+    "continuous",
+    "rad/s",
+    "feature",
+    "joint speed"
+   ],
+   [
+    "Speed_J1",
+    "continuous",
+    "rad/s",
+    "feature",
+    "joint speed"
+   ],
+   [
+    "Speed_J2",
+    "continuous",
+    "rad/s",
+    "feature",
+    "joint speed"
+   ],
+   [
+    "Speed_J3",
+    "continuous",
+    "rad/s",
+    "feature",
+    "joint speed"
+   ],
+   [
+    "Speed_J4",
+    "continuous",
+    "rad/s",
+    "feature",
+    "joint speed"
+   ],
+   [
+    "Speed_J5",
+    "continuous",
+    "rad/s",
+    "feature",
+    "joint speed"
+   ],
+   [
+    "Tool_current",
+    "continuous",
+    "A",
+    "feature",
+    "gripper current"
+   ],
+   [
+    "cycle",
+    "integer",
+    "-",
+    "structure",
+    "cycle counter -> cycle_id and position in cycle; not a feature (encodes time)"
+   ],
+   [
+    "Robot_ProtectiveStop",
+    "binary",
+    "-",
+    "excluded",
+    "other fault, unrelated to grip loss (Fisher p = 0.25)"
+   ],
+   [
+    "grip_lost",
+    "binary",
+    "-",
+    "target source",
+    "y_t = 1 if a grip loss starts within the next N = 3 s"
+   ]
+  ],
+  "index": [
+   "Num",
+   "Timestamp",
+   "Current_J0",
+   "Current_J1",
+   "Current_J2",
+   "Current_J3",
+   "Current_J4",
+   "Current_J5",
+   "Temperature_J0",
+   "Temperature_J1",
+   "Temperature_J2",
+   "Temperature_J3",
+   "Temperature_J4",
+   "Temperature_J5",
+   "Speed_J0",
+   "Speed_J1",
+   "Speed_J2",
+   "Speed_J3",
+   "Speed_J4",
+   "Speed_J5",
+   "Tool_current",
+   "cycle",
+   "Robot_ProtectiveStop",
+   "grip_lost"
+  ]
+ },
+ "s1_vif": {
+  "columns": [
+   "Unnamed: 0",
+   "VIF (19 raw sensors)",
+   "VIF (temperatures -> mean)"
+  ],
+  "rows": [
+   [
+    "Current_J0",
+    3.3,
+    3.3
+   ],
+   [
+    "Current_J1",
+    3.0,
+    3.0
+   ],
+   [
+    "Current_J2",
+    4.5,
+    4.5
+   ],
+   [
+    "Current_J3",
+    2.8,
+    2.8
+   ],
+   [
+    "Current_J4",
+    3.0,
+    3.0
+   ],
+   [
+    "Current_J5",
+    2.5,
+    2.5
+   ],
+   [
+    "Speed_J0",
+    27.9,
+    27.8
+   ],
+   [
+    "Speed_J1",
+    1.6,
+    1.6
+   ],
+   [
+    "Speed_J2",
+    2.6,
+    2.6
+   ],
+   [
+    "Speed_J3",
+    165.9,
+    165.3
+   ],
+   [
+    "Speed_J4",
+    3.4,
+    3.4
+   ],
+   [
+    "Speed_J5",
+    129.2,
+    128.7
+   ],
+   [
+    "Temperature_J0",
+    2935.9,
+    null
+   ],
+   [
+    "Temperature_J1",
+    8357.1,
+    null
+   ],
+   [
+    "Temperature_J2",
+    8988.3,
+    null
+   ],
+   [
+    "Temperature_J3",
+    4160.9,
+    null
+   ],
+   [
+    "Temperature_J4",
+    3499.8,
+    null
+   ],
+   [
+    "Temperature_J5",
+    1541.3,
+    null
+   ],
+   [
+    "Tool_current",
+    1.1,
+    1.1
+   ],
+   [
+    "temp_mean",
+    null,
+    1.0
+   ]
+  ],
+  "index": [
+   "Current_J0",
+   "Current_J1",
+   "Current_J2",
+   "Current_J3",
+   "Current_J4",
+   "Current_J5",
+   "Speed_J0",
+   "Speed_J1",
+   "Speed_J2",
+   "Speed_J3",
+   "Speed_J4",
+   "Speed_J5",
+   "Temperature_J0",
+   "Temperature_J1",
+   "Temperature_J2",
+   "Temperature_J3",
+   "Temperature_J4",
+   "Temperature_J5",
+   "Tool_current",
+   "temp_mean"
+  ]
+ },
+ "s2_cv_folds": {
+  "columns": [
+   "scheme",
+   "fold",
+   "train rows",
+   "validation rows",
+   "train events",
+   "validation positives",
+   "validation events",
+   "validation period (UTC)"
+  ],
+  "rows": [
+   [
+    "TimeSeriesSplit (equal rows)",
+    1,
+    823,
+    826,
+    8,
+    27,
+    9,
+    "08:32-08:47"
+   ],
+   [
+    "TimeSeriesSplit (equal rows)",
+    2,
+    1649,
+    826,
+    17,
+    45,
+    15,
+    "08:47-09:02"
+   ],
+   [
+    "TimeSeriesSplit (equal rows)",
+    3,
+    2475,
+    826,
+    32,
+    3,
+    1,
+    "09:02-14:30"
+   ],
+   [
+    "TimeSeriesSplit (equal rows)",
+    4,
+    3301,
+    826,
+    33,
+    15,
+    5,
+    "14:30-14:44"
+   ],
+   [
+    "TimeSeriesSplit (equal rows)",
+    5,
+    4127,
+    826,
+    38,
+    35,
+    12,
+    "14:44-14:58"
+   ],
+   [
+    "Event-balanced (used)",
+    1,
+    844,
+    792,
+    8,
+    24,
+    8,
+    "08:32-08:47"
+   ],
+   [
+    "Event-balanced (used)",
+    2,
+    1636,
+    522,
+    15,
+    27,
+    9,
+    "08:47-08:56"
+   ],
+   [
+    "Event-balanced (used)",
+    3,
+    2158,
+    1500,
+    25,
+    24,
+    8,
+    "08:56-14:36"
+   ],
+   [
+    "Event-balanced (used)",
+    4,
+    3658,
+    810,
+    33,
+    24,
+    8,
+    "14:36-14:50"
+   ],
+   [
+    "Event-balanced (used)",
+    5,
+    4468,
+    485,
+    41,
+    26,
+    9,
+    "14:50-14:58"
+   ]
+  ],
+  "index": [
+   "TimeSeriesSplit (equal rows)",
+   "TimeSeriesSplit (equal rows)",
+   "TimeSeriesSplit (equal rows)",
+   "TimeSeriesSplit (equal rows)",
+   "TimeSeriesSplit (equal rows)",
+   "Event-balanced (used)",
+   "Event-balanced (used)",
+   "Event-balanced (used)",
+   "Event-balanced (used)",
+   "Event-balanced (used)"
+  ]
+ },
+ "s2_leakage_experiments": {
+  "columns": [
+   "experiment",
+   "variant",
+   "mean CV PR-AUC",
+   "sd",
+   "folds"
+  ],
+  "rows": [
+   [
+    "A: validation scheme",
+    "Shuffled stratified 5-fold (rows treated as independent)",
+    0.376,
+    0.091,
+    "[0.454, 0.396, 0.254, 0.289, 0.487]"
+   ],
+   [
+    "A: validation scheme",
+    "Expanding-window time-series CV, gap = 8 (our protocol)",
+    0.307,
+    0.266,
+    "[0.046, 0.464, 0.198, 0.08, 0.75]"
+   ],
+   [
+    "B: feature construction",
+    "Centred rolling windows (look 2 s into the future)",
+    0.406,
+    0.185,
+    "[0.101, 0.543, 0.449, 0.311, 0.624]"
+   ],
+   [
+    "B: feature construction",
+    "Causal rolling windows (past only, our protocol)",
+    0.307,
+    0.266,
+    "[0.046, 0.464, 0.198, 0.08, 0.75]"
+   ]
+  ],
+  "index": [
+   "A: validation scheme",
+   "A: validation scheme",
+   "B: feature construction",
+   "B: feature construction"
+  ]
+ },
+ "s2_learning_curves": {
+  "columns": [
+   "model",
+   "fold",
+   "train rows",
+   "train PR-AUC",
+   "CV PR-AUC"
+  ],
+  "rows": [
+   [
+    "Logistic regression (C = 0.1)",
+    1,
+    844,
+    0.668,
+    0.055
+   ],
+   [
+    "Logistic regression (C = 0.1)",
+    2,
+    1636,
+    0.344,
+    0.239
+   ],
+   [
+    "Logistic regression (C = 0.1)",
+    3,
+    2158,
+    0.28,
+    0.124
+   ],
+   [
+    "Logistic regression (C = 0.1)",
+    4,
+    3658,
+    0.226,
+    0.186
+   ],
+   [
+    "Logistic regression (C = 0.1)",
+    5,
+    4468,
+    0.225,
+    0.419
+   ],
+   [
+    "Random forest, unconstrained",
+    1,
+    844,
+    1.0,
+    0.055
+   ],
+   [
+    "Random forest, unconstrained",
+    2,
+    1636,
+    1.0,
+    0.419
+   ],
+   [
+    "Random forest, unconstrained",
+    3,
+    2158,
+    1.0,
+    0.337
+   ],
+   [
+    "Random forest, unconstrained",
+    4,
+    3658,
+    1.0,
+    0.24
+   ],
+   [
+    "Random forest, unconstrained",
+    5,
+    4468,
+    1.0,
+    0.744
+   ],
+   [
+    "Random forest, min_samples_leaf = 30",
+    1,
+    844,
+    0.958,
+    0.046
+   ],
+   [
+    "Random forest, min_samples_leaf = 30",
+    2,
+    1636,
+    0.99,
+    0.464
+   ],
+   [
+    "Random forest, min_samples_leaf = 30",
+    3,
+    2158,
+    0.932,
+    0.198
+   ],
+   [
+    "Random forest, min_samples_leaf = 30",
+    4,
+    3658,
+    0.917,
+    0.08
+   ],
+   [
+    "Random forest, min_samples_leaf = 30",
+    5,
+    4468,
+    0.951,
+    0.75
+   ]
+  ],
+  "index": [
+   "Logistic regression (C = 0.1)",
+   "Logistic regression (C = 0.1)",
+   "Logistic regression (C = 0.1)",
+   "Logistic regression (C = 0.1)",
+   "Logistic regression (C = 0.1)",
+   "Random forest, unconstrained",
+   "Random forest, unconstrained",
+   "Random forest, unconstrained",
+   "Random forest, unconstrained",
+   "Random forest, unconstrained",
+   "Random forest, min_samples_leaf = 30",
+   "Random forest, min_samples_leaf = 30",
+   "Random forest, min_samples_leaf = 30",
+   "Random forest, min_samples_leaf = 30",
+   "Random forest, min_samples_leaf = 30"
+  ]
+ },
+ "s2_split_summary": {
+  "columns": [
+   "set",
+   "rows",
+   "positives (y=1)",
+   "prevalence %",
+   "events announced",
+   "cycles",
+   "start (UTC)",
+   "end (UTC)",
+   "mean temp J0 (\u00b0C)"
+  ],
+  "rows": [
+   [
+    "train",
+    4961,
+    149,
+    3.0,
+    50,
+    183,
+    "08:17:25",
+    "14:58:51",
+    34.0
+   ],
+   [
+    "embargo",
+    14,
+    2,
+    14.29,
+    1,
+    2,
+    "14:58:52",
+    "15:17:49",
+    37.1
+   ],
+   [
+    "val",
+    1061,
+    32,
+    3.02,
+    12,
+    36,
+    "14:59:00",
+    "15:17:41",
+    37.1
+   ],
+   [
+    "test",
+    1046,
+    26,
+    2.49,
+    9,
+    30,
+    "15:17:50",
+    "15:36:03",
+    37.2
+   ]
+  ],
+  "index": [
+   "train",
+   "embargo",
+   "val",
+   "test"
+  ]
+ },
+ "s3_baseline_results": {
+  "columns": [
+   "model",
+   "operating point",
+   "set",
+   "threshold",
+   "PR-AUC",
+   "ROC-AUC",
+   "precision",
+   "recall",
+   "F1",
+   "balanced acc",
+   "TP",
+   "FP",
+   "FN",
+   "TN",
+   "Brier",
+   "events",
+   "events detected",
+   "event recall",
+   "mean warning (s)",
+   "false-alarm episodes",
+   "false alarms / hour",
+   "PR-AUC 95% CI",
+   "event recall 95% CI"
+  ],
+  "rows": [
+   [
+    "B0 prior",
+    "F1-optimal",
+    "val",
+    0.5,
+    0.0302,
+    0.5,
+    0.0,
+    0.0,
+    0.0,
+    0.5,
+    0,
+    0,
+    32,
+    1029,
+    0.0293,
+    12,
+    0,
+    0.0,
+    null,
+    0,
+    0.0,
+    null,
+    null
+   ],
+   [
+    "B0 prior",
+    "F1-optimal",
+    "test",
+    0.5,
+    0.0249,
+    0.5,
+    0.0,
+    0.0,
+    0.0,
+    0.5,
+    0,
+    0,
+    26,
+    1020,
+    0.0243,
+    9,
+    0,
+    0.0,
+    null,
+    0,
+    0.0,
+    null,
+    null
+   ],
+   [
+    "B1 cycle position",
+    "F1-optimal",
+    "val",
+    0.0478,
+    0.0355,
+    0.5499,
+    0.0433,
+    0.4062,
+    0.0783,
+    0.5637,
+    13,
+    287,
+    19,
+    742,
+    0.0296,
+    12,
+    8,
+    0.6667,
+    2.3904,
+    99,
+    335.9095,
+    null,
+    null
+   ],
+   [
+    "B1 cycle position",
+    "F1-optimal",
+    "test",
+    0.0478,
+    0.0657,
+    0.7548,
+    0.0613,
+    0.6154,
+    0.1115,
+    0.6876,
+    16,
+    245,
+    10,
+    775,
+    0.0238,
+    9,
+    7,
+    0.7778,
+    2.8716,
+    88,
+    302.8681,
+    "[0.022, 0.136]",
+    "[0.33, 1.00]"
+   ],
+   [
+    "B1 cycle position",
+    "<= 30 FA/h",
+    "val",
+    0.0777,
+    0.0355,
+    0.5499,
+    0.0,
+    0.0,
+    0.0,
+    0.5,
+    0,
+    0,
+    32,
+    1029,
+    0.0296,
+    12,
+    0,
+    0.0,
+    null,
+    0,
+    0.0,
+    null,
+    null
+   ],
+   [
+    "B1 cycle position",
+    "<= 30 FA/h",
+    "test",
+    0.0777,
+    0.0657,
+    0.7548,
+    0.0,
+    0.0,
+    0.0,
+    0.5,
+    0,
+    0,
+    26,
+    1020,
+    0.0238,
+    9,
+    0,
+    0.0,
+    null,
+    0,
+    0.0,
+    "[0.022, 0.136]",
+    "[0.00, 0.00]"
+   ],
+   [
+    "B2 logistic regression",
+    "F1-optimal",
+    "val",
+    0.5152,
+    0.06,
+    0.6303,
+    0.07,
+    0.5625,
+    0.1246,
+    0.6651,
+    18,
+    239,
+    14,
+    790,
+    0.1535,
+    12,
+    9,
+    0.75,
+    2.3493,
+    107,
+    363.0537,
+    null,
+    null
+   ],
+   [
+    "B2 logistic regression",
+    "F1-optimal",
+    "test",
+    0.5152,
+    0.0574,
+    0.7591,
+    0.0464,
+    0.4231,
+    0.0837,
+    0.6008,
+    11,
+    226,
+    15,
+    794,
+    0.149,
+    9,
+    6,
+    0.6667,
+    2.3465,
+    99,
+    340.7266,
+    "[0.025, 0.132]",
+    "[0.25, 1.00]"
+   ],
+   [
+    "B2 logistic regression",
+    "<= 30 FA/h",
+    "val",
+    0.8724,
+    0.06,
+    0.6303,
+    0.2,
+    0.0625,
+    0.0952,
+    0.5274,
+    2,
+    8,
+    30,
+    1021,
+    0.1535,
+    12,
+    2,
+    0.1667,
+    1.5095,
+    8,
+    27.1442,
+    null,
+    null
+   ],
+   [
+    "B2 logistic regression",
+    "<= 30 FA/h",
+    "test",
+    0.8724,
+    0.0574,
+    0.7591,
+    0.0909,
+    0.0385,
+    0.0541,
+    0.5143,
+    1,
+    10,
+    25,
+    1010,
+    0.149,
+    9,
+    1,
+    0.1111,
+    1.003,
+    9,
+    30.9751,
+    "[0.025, 0.132]",
+    "[0.00, 0.40]"
+   ]
+  ],
+  "index": [
+   "B0 prior",
+   "B0 prior",
+   "B1 cycle position",
+   "B1 cycle position",
+   "B1 cycle position",
+   "B1 cycle position",
+   "B2 logistic regression",
+   "B2 logistic regression",
+   "B2 logistic regression",
+   "B2 logistic regression"
+  ]
+ },
+ "s3_calibration": {
+  "columns": [
+   "variant",
+   "PR-AUC",
+   "Brier",
+   "log-loss",
+   "mean predicted %",
+   "observed rate %"
+  ],
+  "rows": [
+   [
+    "balanced weights (B2)",
+    0.06,
+    0.1535,
+    0.4653,
+    28.4249,
+    3.016
+   ],
+   [
+    "no class weights",
+    0.0488,
+    0.0294,
+    0.1467,
+    2.3809,
+    3.016
+   ],
+   [
+    "balanced + sigmoid recalibration",
+    0.0494,
+    0.0293,
+    0.1392,
+    2.3805,
+    3.016
+   ]
+  ],
+  "index": [
+   "balanced weights (B2)",
+   "no class weights",
+   "balanced + sigmoid recalibration"
+  ]
+ },
+ "s3_validation_curve_C": {
+  "columns": [
+   "C",
+   "train mean",
+   "CV mean",
+   "CV se",
+   "paired diff to best",
+   "paired se"
+  ],
+  "rows": [
+   [
+    0.0001,
+    0.1033,
+    0.0798,
+    0.0229,
+    -0.0492,
+    0.0217
+   ],
+   [
+    0.0003,
+    0.1068,
+    0.0824,
+    0.0242,
+    -0.0465,
+    0.02
+   ],
+   [
+    0.001,
+    0.114,
+    0.0861,
+    0.0255,
+    -0.0428,
+    0.0182
+   ],
+   [
+    0.0032,
+    0.1236,
+    0.0929,
+    0.0278,
+    -0.0361,
+    0.0156
+   ],
+   [
+    0.01,
+    0.1338,
+    0.1033,
+    0.0323,
+    -0.0257,
+    0.0112
+   ],
+   [
+    0.0316,
+    0.1521,
+    0.1128,
+    0.0334,
+    -0.0162,
+    0.0108
+   ],
+   [
+    0.1,
+    0.1633,
+    0.1203,
+    0.0377,
+    -0.0087,
+    0.0057
+   ],
+   [
+    0.3162,
+    0.1616,
+    0.129,
+    0.0433,
+    0.0,
+    0.0
+   ],
+   [
+    1.0,
+    0.1602,
+    0.1277,
+    0.0419,
+    -0.0013,
+    0.0023
+   ],
+   [
+    3.1623,
+    0.1584,
+    0.1266,
+    0.0417,
+    -0.0024,
+    0.0029
+   ],
+   [
+    10.0,
+    0.1542,
+    0.1242,
+    0.04,
+    -0.0048,
+    0.0047
+   ],
+   [
+    31.6228,
+    0.1548,
+    0.1225,
+    0.039,
+    -0.0064,
+    0.0057
+   ],
+   [
+    100.0,
+    0.1533,
+    0.1219,
+    0.0386,
+    -0.0071,
+    0.0059
+   ]
+  ],
+  "index": [
+   "0.0001",
+   "0.0003",
+   "0.001",
+   "0.0032",
+   "0.01",
+   "0.0316",
+   "0.1",
+   "0.3162",
+   "1.0",
+   "3.1623",
+   "10.0",
+   "31.6228",
+   "100.0"
+  ]
+ },
+ "s4_literature": {
+  "columns": [
+   "study",
+   "target",
+   "models",
+   "split",
+   "reported results",
+   "remark"
+  ],
+  "rows": [
+   [
+    "Tyrovolas et al. (2024) \u2013 dataset authors",
+    "fault diagnosis (both labels)",
+    "Information-Flow Fuzzy Cognitive Maps (interpretable)",
+    "not compared (interpretability study)",
+    "-",
+    "-"
+   ],
+   [
+    "Liu (2025), Engineering Frontiers",
+    "combined fault (protective stop OR grip loss), current second",
+    "LR, SVM, RF, k-NN, decision tree",
+    "random 70/30, fixed seed",
+    "RF: ROC-AUC 0.911; k-NN: best F1 0.446; LR detects no fault",
+    "figures from our Step-1 review, paper page not reachable for re-check"
+   ],
+   [
+    "Ya\u015far \u00c7\u0131kla\u00e7and\u0131r et al. (2025), DEU FMD",
+    "grip_lost (and protective stop) separately, current second",
+    "LR, DT, RF, SVM, k-NN; RFE / chi-square selection; StandardScaler + SMOTE",
+    "70/30 (random vs chronological not stated)",
+    "grip_lost, RF: accuracy 0.990, precision 0.986, recall 0.994, F1 0.990, ROC-AUC 0.990 (0.999 after chi-square)",
+    "precision \u2248 recall \u2248 accuracy suggests a balanced (oversampled) test set"
+   ],
+   [
+    "Ta\u015f & Bal (2025), Sakarya Univ. J. Sci.",
+    "protective stop, current second",
+    "ESOA-tuned BiRNN vs CNN, LSTM, BiLSTM, GRU, TCN, CNN-RNN",
+    "random 80/20",
+    "ESOA-BiRNN: ROC-AUC 0.946, accuracy 0.892, precision 0.280, recall 0.853, F1 0.422",
+    "other target (protective stop)"
+   ],
+   [
+    "Shen et al. (2026), PHM Asia-Pacific",
+    "fault classification + RUL",
+    "physics-informed Transformer (PhysODE-Joint)",
+    "not stated on the abstract page",
+    "no numbers on the abstract page",
+    "cites UR3 CobotOps; full paper to be read"
+   ]
+  ],
+  "index": [
+   "Tyrovolas et al. (2024) \u2013 dataset authors",
+   "Liu (2025), Engineering Frontiers",
+   "Ya\u015far \u00c7\u0131kla\u00e7and\u0131r et al. (2025), DEU FMD",
+   "Ta\u015f & Bal (2025), Sakarya Univ. J. Sci.",
+   "Shen et al. (2026), PHM Asia-Pacific"
+  ]
+ },
+ "s4_protocol_rerun": {
+  "columns": [
+   "protocol",
+   "model",
+   "test prevalence %",
+   "accuracy",
+   "precision",
+   "recall",
+   "F1",
+   "ROC-AUC",
+   "PR-AUC"
+  ],
+  "rows": [
+   [
+    "P1 concurrent label, random 70/30",
+    "Random forest",
+    3.308,
+    0.977,
+    0.897,
+    0.356,
+    0.51,
+    0.935,
+    0.671
+   ],
+   [
+    "P1 concurrent label, random 70/30",
+    "k-NN (k = 5)",
+    3.308,
+    0.97,
+    0.56,
+    0.384,
+    0.455,
+    0.817,
+    0.403
+   ],
+   [
+    "P1 concurrent label, random 70/30",
+    "Logistic regression",
+    3.308,
+    0.967,
+    0.0,
+    0.0,
+    0.0,
+    0.753,
+    0.101
+   ],
+   [
+    "P2 = P1 + SMOTE before the split",
+    "Random forest",
+    50.0,
+    0.983,
+    0.976,
+    0.989,
+    0.983,
+    0.999,
+    0.999
+   ],
+   [
+    "P2 = P1 + SMOTE before the split",
+    "k-NN (k = 5)",
+    50.0,
+    0.947,
+    0.911,
+    0.992,
+    0.95,
+    0.983,
+    0.968
+   ],
+   [
+    "P2 = P1 + SMOTE before the split",
+    "Logistic regression",
+    50.0,
+    0.709,
+    0.708,
+    0.714,
+    0.711,
+    0.778,
+    0.733
+   ],
+   [
+    "P3 = P1 + SMOTE on train only",
+    "Random forest",
+    3.308,
+    0.971,
+    0.553,
+    0.575,
+    0.564,
+    0.934,
+    0.634
+   ],
+   [
+    "P3 = P1 + SMOTE on train only",
+    "k-NN (k = 5)",
+    3.308,
+    0.909,
+    0.222,
+    0.699,
+    0.337,
+    0.836,
+    0.314
+   ],
+   [
+    "P3 = P1 + SMOTE on train only",
+    "Logistic regression",
+    3.308,
+    0.707,
+    0.073,
+    0.671,
+    0.132,
+    0.766,
+    0.1
+   ],
+   [
+    "P4 concurrent label, chronological 70/30",
+    "Random forest",
+    2.809,
+    0.976,
+    0.909,
+    0.161,
+    0.274,
+    0.688,
+    0.286
+   ],
+   [
+    "P4 concurrent label, chronological 70/30",
+    "k-NN (k = 5)",
+    2.809,
+    0.97,
+    0.414,
+    0.194,
+    0.264,
+    0.67,
+    0.207
+   ],
+   [
+    "P4 concurrent label, chronological 70/30",
+    "Logistic regression",
+    2.809,
+    0.972,
+    0.0,
+    0.0,
+    0.0,
+    0.666,
+    0.077
+   ],
+   [
+    "P5 early warning N = 3 s, chronological (ours)",
+    "Random forest",
+    3.016,
+    0.971,
+    0.667,
+    0.062,
+    0.114,
+    0.702,
+    0.111
+   ],
+   [
+    "P5 early warning N = 3 s, chronological (ours)",
+    "k-NN (k = 5)",
+    3.016,
+    0.967,
+    0.286,
+    0.062,
+    0.103,
+    0.644,
+    0.076
+   ],
+   [
+    "P5 early warning N = 3 s, chronological (ours)",
+    "Logistic regression",
+    3.016,
+    0.97,
+    0.0,
+    0.0,
+    0.0,
+    0.632,
+    0.043
+   ]
+  ],
+  "index": [
+   "P1 concurrent label, random 70/30",
+   "P1 concurrent label, random 70/30",
+   "P1 concurrent label, random 70/30",
+   "P2 = P1 + SMOTE before the split",
+   "P2 = P1 + SMOTE before the split",
+   "P2 = P1 + SMOTE before the split",
+   "P3 = P1 + SMOTE on train only",
+   "P3 = P1 + SMOTE on train only",
+   "P3 = P1 + SMOTE on train only",
+   "P4 concurrent label, chronological 70/30",
+   "P4 concurrent label, chronological 70/30",
+   "P4 concurrent label, chronological 70/30",
+   "P5 early warning N = 3 s, chronological (ours)",
+   "P5 early warning N = 3 s, chronological (ours)",
+   "P5 early warning N = 3 s, chronological (ours)"
+  ]
+ },
+ "s5_ablation": {
+  "columns": [
+   "variant",
+   "CV PR-AUC",
+   "CV sd",
+   "val PR-AUC"
+  ],
+  "rows": [
+   [
+    "final configuration",
+    0.4375,
+    0.1836,
+    0.6041
+   ],
+   [
+    "without window",
+    0.3843,
+    0.133,
+    0.4946
+   ],
+   [
+    "without residual",
+    0.4461,
+    0.1831,
+    0.6057
+   ],
+   [
+    "without burst",
+    0.3715,
+    0.2154,
+    0.2307
+   ],
+   [
+    "temperature: mean",
+    0.4253,
+    0.1906,
+    0.5037
+   ],
+   [
+    "without position in cycle",
+    0.4288,
+    0.187,
+    0.5779
+   ]
+  ],
+  "index": [
+   "final configuration",
+   "without window",
+   "without residual",
+   "without burst",
+   "temperature: mean",
+   "without position in cycle"
+  ]
+ },
+ "s5_events_by_type": {
+  "columns": [
+   "set",
+   "type",
+   "events",
+   "detected",
+   "event recall"
+  ],
+  "rows": [
+   [
+    "test",
+    "follow-up (< 60 s after a loss)",
+    5,
+    2,
+    0.4
+   ],
+   [
+    "test",
+    "isolated",
+    4,
+    2,
+    0.5
+   ],
+   [
+    "val",
+    "follow-up (< 60 s after a loss)",
+    8,
+    6,
+    0.75
+   ],
+   [
+    "val",
+    "isolated",
+    4,
+    2,
+    0.5
+   ]
+  ],
+  "index": [
+   "test",
+   "test",
+   "val",
+   "val"
+  ]
+ },
+ "s5_events_detail": {
+  "columns": [
+   "set",
+   "event",
+   "onset (UTC)",
+   "position in cycle (s)",
+   "duration (s)",
+   "s since previous loss",
+   "type",
+   "max score before onset",
+   "detected (<= 30 FA/h)"
+  ],
+  "rows": [
+   [
+    "val",
+    52,
+    "14:59:28",
+    4,
+    2,
+    156.916,
+    "isolated",
+    0.3,
+    true
+   ],
+   [
+    "val",
+    53,
+    "14:59:40",
+    16,
+    4,
+    11.057,
+    "follow-up (< 60 s after a loss)",
+    1.0,
+    true
+   ],
+   [
+    "val",
+    54,
+    "15:03:05",
+    36,
+    1,
+    201.142,
+    "isolated",
+    0.98,
+    true
+   ],
+   [
+    "val",
+    55,
+    "15:04:03",
+    4,
+    2,
+    58.283,
+    "follow-up (< 60 s after a loss)",
+    0.715,
+    true
+   ],
+   [
+    "val",
+    56,
+    "15:04:15",
+    16,
+    5,
+    11.056,
+    "follow-up (< 60 s after a loss)",
+    0.995,
+    true
+   ],
+   [
+    "val",
+    57,
+    "15:05:31",
+    11,
+    2,
+    71.39,
+    "isolated",
+    0.0,
+    false
+   ],
+   [
+    "val",
+    58,
+    "15:05:45",
+    25,
+    4,
+    13.084,
+    "follow-up (< 60 s after a loss)",
+    0.768,
+    true
+   ],
+   [
+    "val",
+    59,
+    "15:06:35",
+    1,
+    2,
+    47.241,
+    "follow-up (< 60 s after a loss)",
+    0.0,
+    false
+   ],
+   [
+    "val",
+    60,
+    "15:06:48",
+    14,
+    11,
+    12.065,
+    "follow-up (< 60 s after a loss)",
+    0.994,
+    true
+   ],
+   [
+    "val",
+    61,
+    "15:17:04",
+    8,
+    2,
+    600.0,
+    "isolated",
+    0.0,
+    false
+   ],
+   [
+    "val",
+    62,
+    "15:17:17",
+    21,
+    4,
+    12.074,
+    "follow-up (< 60 s after a loss)",
+    0.654,
+    true
+   ],
+   [
+    "val",
+    63,
+    "15:17:44",
+    18,
+    2,
+    24.128,
+    "follow-up (< 60 s after a loss)",
+    0.004,
+    false
+   ],
+   [
+    "test",
+    64,
+    "15:18:10",
+    20,
+    4,
+    25.117,
+    "follow-up (< 60 s after a loss)",
+    0.001,
+    false
+   ],
+   [
+    "test",
+    65,
+    "15:20:20",
+    35,
+    5,
+    126.637,
+    "isolated",
+    0.18,
+    true
+   ],
+   [
+    "test",
+    66,
+    "15:25:49",
+    17,
+    1,
+    324.874,
+    "isolated",
+    0.005,
+    false
+   ],
+   [
+    "test",
+    67,
+    "15:28:12",
+    34,
+    1,
+    143.874,
+    "isolated",
+    0.998,
+    true
+   ],
+   [
+    "test",
+    68,
+    "15:28:41",
+    19,
+    2,
+    28.137,
+    "follow-up (< 60 s after a loss)",
+    1.0,
+    true
+   ],
+   [
+    "test",
+    69,
+    "15:29:31",
+    20,
+    5,
+    49.284,
+    "follow-up (< 60 s after a loss)",
+    0.0,
+    false
+   ],
+   [
+    "test",
+    70,
+    "15:29:39",
+    28,
+    1,
+    4.022,
+    "follow-up (< 60 s after a loss)",
+    0.0,
+    false
+   ],
+   [
+    "test",
+    71,
+    "15:34:36",
+    3,
+    2,
+    296.676,
+    "isolated",
+    0.0,
+    false
+   ],
+   [
+    "test",
+    72,
+    "15:34:49",
+    16,
+    4,
+    12.072,
+    "follow-up (< 60 s after a loss)",
+    1.0,
+    true
+   ]
+  ],
+  "index": [
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "val",
+   "test",
+   "test",
+   "test",
+   "test",
+   "test",
+   "test",
+   "test",
+   "test",
+   "test"
+  ]
+ },
+ "s5_family_champions": {
+  "columns": [
+   "family",
+   "CV PR-AUC",
+   "CV sd",
+   "train PR-AUC",
+   "val PR-AUC",
+   "val event recall (<= 30 FA/h)",
+   "config"
+  ],
+  "rows": [
+   [
+    "Gradient boosting (HGB)",
+    0.4375,
+    0.1836,
+    1.0,
+    0.6041,
+    0.6667,
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=True, m.class_weight=balanced, m.l2_regularization=0.00373, m.learning_rate=0.0564, m.max_iter=271, m.max_leaf_nodes=40, m.min_samples_leaf=32"
+   ],
+   [
+    "Decision tree",
+    0.1362,
+    0.0393,
+    0.3258,
+    0.2019,
+    0.1667,
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=False, m.ccp_alpha=0.000995, m.max_depth=9, m.min_samples_leaf=39"
+   ],
+   [
+    "Extra trees",
+    0.3465,
+    0.1794,
+    0.9074,
+    0.1687,
+    0.0833,
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=17"
+   ],
+   [
+    "Random forest",
+    0.3538,
+    0.2191,
+    0.972,
+    0.1513,
+    0.0833,
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=17"
+   ],
+   [
+    "Logistic regression",
+    0.1864,
+    0.1221,
+    0.2736,
+    0.1491,
+    0.1667,
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.C=5.07, m.penalty=l2, scale=StandardScaler, select=SelectKBest(k=40)"
+   ],
+   [
+    "SVM (RBF kernel)",
+    0.2116,
+    0.1461,
+    0.2604,
+    0.1159,
+    0.25,
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=8.91, m.gamma=0.00251, scale=StandardScaler, select=SelectKBest(k=40)"
+   ],
+   [
+    "k-nearest neighbours",
+    0.2412,
+    0.1557,
+    1.0,
+    0.0757,
+    0.0833,
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.n_neighbors=8, m.weights=distance, scale=StandardScaler, select=SelectKBest(k=40)"
+   ]
+  ],
+  "index": [
+   "Gradient boosting (HGB)",
+   "Decision tree",
+   "Extra trees",
+   "Random forest",
+   "Logistic regression",
+   "SVM (RBF kernel)",
+   "k-nearest neighbours"
+  ]
+ },
+ "s5_horizon_sensitivity": {
+  "columns": [
+   "horizon N (s)",
+   "burst features",
+   "val prevalence",
+   "CV PR-AUC",
+   "val PR-AUC",
+   "val lift (PR-AUC / prevalence)"
+  ],
+  "rows": [
+   [
+    1,
+    true,
+    0.0103,
+    0.4661,
+    0.6876,
+    66.4426
+   ],
+   [
+    1,
+    false,
+    0.0103,
+    0.4122,
+    0.4152,
+    40.1217
+   ],
+   [
+    2,
+    true,
+    0.0207,
+    0.4827,
+    0.6796,
+    32.8063
+   ],
+   [
+    2,
+    false,
+    0.0207,
+    0.4156,
+    0.3234,
+    15.6096
+   ],
+   [
+    3,
+    true,
+    0.0302,
+    0.4375,
+    0.6041,
+    20.0301
+   ],
+   [
+    3,
+    false,
+    0.0302,
+    0.3715,
+    0.2307,
+    7.6495
+   ],
+   [
+    5,
+    true,
+    0.051,
+    0.4393,
+    0.5281,
+    10.3568
+   ],
+   [
+    5,
+    false,
+    0.051,
+    0.3414,
+    0.1519,
+    2.9791
+   ]
+  ],
+  "index": [
+   "1",
+   "1",
+   "2",
+   "2",
+   "3",
+   "3",
+   "5",
+   "5"
+  ]
+ },
+ "s5_leaderboard_all_configs": {
+  "columns": [
+   "family",
+   "config",
+   "CV PR-AUC",
+   "CV sd",
+   "train PR-AUC",
+   "fit time (s)",
+   "overfit gap"
+  ],
+  "rows": [
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=True, m.class_weight=balanced, m.l2_regularization=0.00373, m.learning_rate=0.0564, m.max_iter=271, m.max_leaf_nodes=40, m.min_samples_leaf=32",
+    0.4375,
+    0.1836,
+    1.0,
+    5.4336,
+    0.5625
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.class_weight=None, m.l2_regularization=0.00154, m.learning_rate=0.119, m.max_iter=329, m.max_leaf_nodes=8, m.min_samples_leaf=107",
+    0.4176,
+    0.2198,
+    1.0,
+    0.2832,
+    0.5824
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=True, m.class_weight=None, m.l2_regularization=0.00579, m.learning_rate=0.0282, m.max_iter=247, m.max_leaf_nodes=11, m.min_samples_leaf=36",
+    0.4164,
+    0.1847,
+    1.0,
+    0.3606,
+    0.5836
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=True, m.class_weight=None, m.l2_regularization=0.000518, m.learning_rate=0.0915, m.max_iter=358, m.max_leaf_nodes=5, m.min_samples_leaf=97",
+    0.4046,
+    0.1848,
+    1.0,
+    0.2738,
+    0.5954
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=False, m.class_weight=balanced, m.l2_regularization=0.00216, m.learning_rate=0.277, m.max_iter=269, m.max_leaf_nodes=26, m.min_samples_leaf=110",
+    0.3778,
+    0.1437,
+    1.0,
+    2.0364,
+    0.6222
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.class_weight=balanced, m.l2_regularization=0.0131, m.learning_rate=0.0383, m.max_iter=185, m.max_leaf_nodes=27, m.min_samples_leaf=72",
+    0.3742,
+    0.1998,
+    1.0,
+    4.8971,
+    0.6258
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.class_weight=balanced, m.l2_regularization=0.792, m.learning_rate=0.0761, m.max_iter=171, m.max_leaf_nodes=22, m.min_samples_leaf=96",
+    0.3678,
+    0.2091,
+    1.0,
+    4.2126,
+    0.6322
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.class_weight=balanced, m.l2_regularization=0.000498, m.learning_rate=0.027, m.max_iter=320, m.max_leaf_nodes=47, m.min_samples_leaf=64",
+    0.3625,
+    0.1987,
+    1.0,
+    5.3583,
+    0.6375
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.class_weight=None, m.l2_regularization=0.00333, m.learning_rate=0.0139, m.max_iter=389, m.max_leaf_nodes=31, m.min_samples_leaf=69",
+    0.3619,
+    0.122,
+    1.0,
+    0.3688,
+    0.6381
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.class_weight=balanced, m.l2_regularization=0.0859, m.learning_rate=0.267, m.max_iter=237, m.max_leaf_nodes=44, m.min_samples_leaf=38",
+    0.3599,
+    0.1906,
+    1.0,
+    4.9444,
+    0.6401
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=False, m.class_weight=balanced, m.l2_regularization=0.893, m.learning_rate=0.0785, m.max_iter=280, m.max_leaf_nodes=44, m.min_samples_leaf=37",
+    0.3596,
+    0.1454,
+    1.0,
+    2.4718,
+    0.6404
+   ],
+   [
+    "Random forest",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=17",
+    0.3538,
+    0.2191,
+    0.972,
+    0.9535,
+    0.6182
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=False, m.class_weight=None, m.l2_regularization=0.0003, m.learning_rate=0.0353, m.max_iter=111, m.max_leaf_nodes=27, m.min_samples_leaf=46",
+    0.3505,
+    0.1432,
+    1.0,
+    0.1778,
+    0.6495
+   ],
+   [
+    "Extra trees",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=17",
+    0.3465,
+    0.1794,
+    0.9074,
+    0.3523,
+    0.5609
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.class_weight=balanced, m.l2_regularization=0.00222, m.learning_rate=0.0229, m.max_iter=364, m.max_leaf_nodes=35, m.min_samples_leaf=105",
+    0.3425,
+    0.2273,
+    1.0,
+    3.9607,
+    0.6575
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.class_weight=None, m.l2_regularization=7.23, m.learning_rate=0.264, m.max_iter=344, m.max_leaf_nodes=5, m.min_samples_leaf=12",
+    0.3413,
+    0.1852,
+    1.0,
+    0.2875,
+    0.6587
+   ],
+   [
+    "Random forest",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.max_depth=10, m.max_features=sqrt, m.min_samples_leaf=21",
+    0.3375,
+    0.2028,
+    0.9816,
+    0.6376,
+    0.6441
+   ],
+   [
+    "Random forest",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=True, m.max_depth=16, m.max_features=sqrt, m.min_samples_leaf=27",
+    0.3339,
+    0.2081,
+    0.9409,
+    0.6883,
+    0.6069
+   ],
+   [
+    "Extra trees",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=True, m.max_depth=16, m.max_features=sqrt, m.min_samples_leaf=27",
+    0.3328,
+    0.1781,
+    0.7713,
+    0.3217,
+    0.4385
+   ],
+   [
+    "Extra trees",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.max_depth=None, m.max_features=0.4, m.min_samples_leaf=18",
+    0.3285,
+    0.17,
+    0.9982,
+    0.3819,
+    0.6697
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=True, m.class_weight=None, m.l2_regularization=0.00053, m.learning_rate=0.0528, m.max_iter=209, m.max_leaf_nodes=9, m.min_samples_leaf=41",
+    0.3266,
+    0.1974,
+    1.0,
+    0.2623,
+    0.6734
+   ],
+   [
+    "Random forest",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=False, m.max_depth=16, m.max_features=0.4, m.min_samples_leaf=3",
+    0.3218,
+    0.127,
+    0.9993,
+    0.9317,
+    0.6775
+   ],
+   [
+    "Random forest",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.max_depth=None, m.max_features=0.4, m.min_samples_leaf=18",
+    0.3197,
+    0.1584,
+    0.9759,
+    1.5452,
+    0.6562
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=False, m.class_weight=balanced, m.l2_regularization=0.000159, m.learning_rate=0.112, m.max_iter=395, m.max_leaf_nodes=45, m.min_samples_leaf=86",
+    0.3121,
+    0.1969,
+    1.0,
+    2.1687,
+    0.6879
+   ],
+   [
+    "Extra trees",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=False, m.max_depth=16, m.max_features=0.4, m.min_samples_leaf=3",
+    0.3035,
+    0.1204,
+    0.9999,
+    0.334,
+    0.6964
+   ],
+   [
+    "Random forest",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.max_depth=10, m.max_features=0.4, m.min_samples_leaf=24",
+    0.3023,
+    0.1427,
+    0.9313,
+    1.2206,
+    0.629
+   ],
+   [
+    "Extra trees",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.max_depth=10, m.max_features=sqrt, m.min_samples_leaf=21",
+    0.3,
+    0.1735,
+    0.888,
+    0.3015,
+    0.588
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.class_weight=None, m.l2_regularization=9.14, m.learning_rate=0.0817, m.max_iter=363, m.max_leaf_nodes=25, m.min_samples_leaf=117",
+    0.2981,
+    0.1679,
+    0.9928,
+    0.2748,
+    0.6947
+   ],
+   [
+    "Extra trees",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.max_depth=10, m.max_features=0.4, m.min_samples_leaf=24",
+    0.2948,
+    0.1641,
+    0.9634,
+    0.3995,
+    0.6686
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.class_weight=None, m.l2_regularization=0.0689, m.learning_rate=0.0111, m.max_iter=267, m.max_leaf_nodes=47, m.min_samples_leaf=43",
+    0.2792,
+    0.15,
+    0.9955,
+    0.3469,
+    0.7163
+   ],
+   [
+    "Random forest",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.max_depth=16, m.max_features=0.4, m.min_samples_leaf=7",
+    0.2631,
+    0.1588,
+    0.9982,
+    0.8733,
+    0.7351
+   ],
+   [
+    "Extra trees",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.max_depth=16, m.max_features=0.4, m.min_samples_leaf=7",
+    0.2616,
+    0.1542,
+    0.9695,
+    0.3106,
+    0.7079
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=False, m.class_weight=None, m.l2_regularization=0.000408, m.learning_rate=0.0336, m.max_iter=239, m.max_leaf_nodes=36, m.min_samples_leaf=10",
+    0.2578,
+    0.2133,
+    1.0,
+    0.3916,
+    0.7422
+   ],
+   [
+    "Extra trees",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.max_depth=None, m.max_features=0.4, m.min_samples_leaf=18",
+    0.2513,
+    0.146,
+    0.6383,
+    0.2954,
+    0.3869
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=True, m.class_weight=balanced, m.l2_regularization=0.109, m.learning_rate=0.0179, m.max_iter=216, m.max_leaf_nodes=21, m.min_samples_leaf=13",
+    0.245,
+    0.2338,
+    1.0,
+    4.0656,
+    0.755
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=False, m.class_weight=balanced, m.l2_regularization=0.000337, m.learning_rate=0.0472, m.max_iter=157, m.max_leaf_nodes=47, m.min_samples_leaf=93",
+    0.2424,
+    0.1828,
+    0.9995,
+    1.1074,
+    0.7572
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.n_neighbors=8, m.weights=distance, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.2412,
+    0.1557,
+    1.0,
+    0.0103,
+    0.7588
+   ],
+   [
+    "Extra trees",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=2",
+    0.2386,
+    0.0878,
+    0.9127,
+    0.2565,
+    0.6741
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.class_weight=balanced, m.l2_regularization=0.00139, m.learning_rate=0.013, m.max_iter=236, m.max_leaf_nodes=25, m.min_samples_leaf=37",
+    0.2376,
+    0.1082,
+    1.0,
+    4.8661,
+    0.7624
+   ],
+   [
+    "Random forest",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.max_depth=10, m.max_features=0.2, m.min_samples_leaf=2",
+    0.2355,
+    0.0909,
+    0.9636,
+    0.4621,
+    0.728
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.class_weight=balanced, m.l2_regularization=4.07, m.learning_rate=0.0135, m.max_iter=264, m.max_leaf_nodes=43, m.min_samples_leaf=94",
+    0.2221,
+    0.14,
+    0.7995,
+    1.2572,
+    0.5774
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.class_weight=balanced, m.l2_regularization=0.064, m.learning_rate=0.0368, m.max_iter=180, m.max_leaf_nodes=4, m.min_samples_leaf=14",
+    0.2162,
+    0.0708,
+    0.732,
+    0.9768,
+    0.5158
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=8.91, m.gamma=0.00251, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.2116,
+    0.1461,
+    0.2604,
+    0.1378,
+    0.0487
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.n_neighbors=13, m.weights=distance, scale=StandardScaler, select=SelectKBest(k=20)",
+    0.2093,
+    0.1461,
+    1.0,
+    0.0156,
+    0.7907
+   ],
+   [
+    "Gradient boosting (HGB)",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=False, m.class_weight=balanced, m.l2_regularization=0.000736, m.learning_rate=0.0378, m.max_iter=99, m.max_leaf_nodes=43, m.min_samples_leaf=13",
+    0.2082,
+    0.1312,
+    1.0,
+    1.3361,
+    0.7918
+   ],
+   [
+    "Random forest",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.max_depth=None, m.max_features=0.4, m.min_samples_leaf=18",
+    0.1996,
+    0.1418,
+    0.8723,
+    0.6734,
+    0.6727
+   ],
+   [
+    "Random forest",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.max_depth=6, m.max_features=0.2, m.min_samples_leaf=9",
+    0.193,
+    0.1315,
+    0.8384,
+    0.6498,
+    0.6454
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=True, m.n_neighbors=79, m.weights=distance, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.1907,
+    0.187,
+    1.0,
+    0.0258,
+    0.8093
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.C=5.07, m.penalty=l2, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.1864,
+    0.1221,
+    0.2736,
+    0.0714,
+    0.0872
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=0.0339, m.penalty=l2, scale=RobustScaler, select=passthrough",
+    0.1819,
+    0.1201,
+    0.262,
+    0.138,
+    0.0801
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.C=0.847, m.penalty=l1, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.1791,
+    0.0827,
+    0.2689,
+    0.1254,
+    0.0899
+   ],
+   [
+    "Extra trees",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.max_depth=6, m.max_features=0.2, m.min_samples_leaf=6",
+    0.178,
+    0.1123,
+    0.4525,
+    0.2525,
+    0.2745
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.C=1.57, m.gamma=0.00625, scale=StandardScaler, select=SelectKBest(k=20)",
+    0.1754,
+    0.1183,
+    0.2653,
+    0.0952,
+    0.0899
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=True, m.C=3.83, m.penalty=l1, scale=RobustScaler, select=passthrough",
+    0.1704,
+    0.1051,
+    0.3911,
+    23.0129,
+    0.2207
+   ],
+   [
+    "Random forest",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.max_depth=6, m.max_features=sqrt, m.min_samples_leaf=33",
+    0.1698,
+    0.1207,
+    0.4853,
+    0.4577,
+    0.3155
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=True, m.C=0.0687, m.penalty=l1, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.1696,
+    0.1063,
+    0.2207,
+    0.0681,
+    0.0511
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=True, m.C=0.0133, m.penalty=l2, scale=StandardScaler, select=passthrough",
+    0.1689,
+    0.0669,
+    0.2563,
+    0.0393,
+    0.0874
+   ],
+   [
+    "Extra trees",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.max_depth=6, m.max_features=0.2, m.min_samples_leaf=9",
+    0.1682,
+    0.1072,
+    0.5309,
+    0.2278,
+    0.3626
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=2.15, m.penalty=l1, scale=RobustScaler, select=passthrough",
+    0.1669,
+    0.1057,
+    0.3139,
+    5.223,
+    0.1469
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=True, m.C=1.83, m.penalty=l1, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.1643,
+    0.1,
+    0.2045,
+    0.0968,
+    0.0402
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=False, m.n_neighbors=75, m.weights=distance, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.1598,
+    0.1497,
+    1.0,
+    0.0093,
+    0.8402
+   ],
+   [
+    "Random forest",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.max_depth=6, m.max_features=0.2, m.min_samples_leaf=6",
+    0.1538,
+    0.0963,
+    0.7069,
+    0.5404,
+    0.5531
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=True, m.C=4.87, m.penalty=l2, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.1519,
+    0.0842,
+    0.192,
+    0.1403,
+    0.0401
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.n_neighbors=64, m.weights=distance, scale=StandardScaler, select=SelectKBest(k=20)",
+    0.1458,
+    0.0706,
+    1.0,
+    0.0093,
+    0.8542
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.n_neighbors=59, m.weights=distance, scale=RobustScaler, select=SelectKBest(k=10)",
+    0.1446,
+    0.0576,
+    1.0,
+    0.0317,
+    0.8554
+   ],
+   [
+    "Extra trees",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.max_depth=6, m.max_features=sqrt, m.min_samples_leaf=33",
+    0.1398,
+    0.1041,
+    0.2234,
+    0.2066,
+    0.0835
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=False, m.ccp_alpha=0.000995, m.max_depth=9, m.min_samples_leaf=39",
+    0.1362,
+    0.0393,
+    0.3258,
+    0.0337,
+    0.1896
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.ccp_alpha=0.000375, m.max_depth=11, m.min_samples_leaf=19",
+    0.1332,
+    0.1271,
+    0.4991,
+    0.0522,
+    0.3659
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.n_neighbors=34, m.weights=distance, scale=RobustScaler, select=SelectKBest(k=10)",
+    0.1325,
+    0.0933,
+    1.0,
+    0.0203,
+    0.8675
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=True, m.C=2.34, m.penalty=l2, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.1322,
+    0.0896,
+    0.1688,
+    0.0459,
+    0.0366
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.C=3.97, m.gamma=0.00636, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.1316,
+    0.0922,
+    0.7723,
+    0.1101,
+    0.6407
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=False, m.C=2.49, m.penalty=l1, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.1313,
+    0.0516,
+    0.196,
+    6.3174,
+    0.0647
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=0.00264, m.penalty=l2, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.1252,
+    0.0849,
+    0.1231,
+    0.0305,
+    -0.0021
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=True, m.ccp_alpha=0.000712, m.max_depth=11, m.min_samples_leaf=26",
+    0.1249,
+    0.1297,
+    0.3184,
+    0.0559,
+    0.1934
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.n_neighbors=25, m.weights=uniform, scale=StandardScaler, select=SelectKBest(k=20)",
+    0.1232,
+    0.0578,
+    0.331,
+    0.0238,
+    0.2079
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.C=0.123, m.penalty=l1, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.1226,
+    0.0722,
+    0.1812,
+    0.0294,
+    0.0586
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=False, m.C=0.355, m.penalty=l1, scale=StandardScaler, select=passthrough",
+    0.1225,
+    0.0725,
+    0.1664,
+    0.1644,
+    0.044
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=True, m.C=0.00994, m.penalty=l1, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.121,
+    0.0804,
+    0.111,
+    0.02,
+    -0.01
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.n_neighbors=76, m.weights=uniform, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.121,
+    0.1063,
+    0.1523,
+    0.0152,
+    0.0313
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.ccp_alpha=0.000209, m.max_depth=8, m.min_samples_leaf=12",
+    0.1208,
+    0.0535,
+    0.4568,
+    0.0187,
+    0.3359
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.C=2.39, m.penalty=l1, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.1179,
+    0.0574,
+    0.1458,
+    21.0462,
+    0.0279
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.C=0.011, m.gamma=0.0671, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.1177,
+    0.068,
+    0.4347,
+    0.1805,
+    0.317
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.C=2.14, m.penalty=l2, scale=RobustScaler, select=passthrough",
+    0.1163,
+    0.0589,
+    0.1444,
+    0.1346,
+    0.0281
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=False, m.C=0.0147, m.penalty=l2, scale=StandardScaler, select=SelectKBest(k=20)",
+    0.1133,
+    0.0599,
+    0.128,
+    0.0216,
+    0.0147
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.n_neighbors=45, m.weights=uniform, scale=StandardScaler, select=SelectKBest(k=10)",
+    0.108,
+    0.0654,
+    0.1931,
+    0.01,
+    0.085
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.ccp_alpha=0.0011, m.max_depth=10, m.min_samples_leaf=22",
+    0.108,
+    0.0772,
+    0.4273,
+    0.0671,
+    0.3193
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.ccp_alpha=0.000622, m.max_depth=9, m.min_samples_leaf=44",
+    0.1063,
+    0.0689,
+    0.1812,
+    0.0168,
+    0.0749
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=True, m.ccp_alpha=0.000657, m.max_depth=11, m.min_samples_leaf=45",
+    0.1045,
+    0.1263,
+    0.2756,
+    0.0691,
+    0.171
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.ccp_alpha=0.000437, m.max_depth=7, m.min_samples_leaf=48",
+    0.1033,
+    0.0642,
+    0.1707,
+    0.0166,
+    0.0674
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.n_neighbors=78, m.weights=distance, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.1032,
+    0.0719,
+    1.0,
+    0.0137,
+    0.8968
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.ccp_alpha=3.13e-05, m.max_depth=10, m.min_samples_leaf=75",
+    0.0997,
+    0.053,
+    0.2624,
+    0.0602,
+    0.1627
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.C=8.34, m.gamma=0.000499, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.0993,
+    0.0448,
+    0.4211,
+    0.1026,
+    0.3219
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=False, m.C=0.249, m.penalty=l1, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.0982,
+    0.0454,
+    0.1415,
+    0.0246,
+    0.0432
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=True, f.temperature=none, f.window=True, m.ccp_alpha=5.98e-05, m.max_depth=9, m.min_samples_leaf=136",
+    0.0971,
+    0.0309,
+    0.1529,
+    0.0557,
+    0.0557
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=0.0331, m.gamma=0.00149, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.0958,
+    0.0847,
+    0.142,
+    0.1809,
+    0.0462
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=False, m.ccp_alpha=7.59e-05, m.max_depth=4, m.min_samples_leaf=85",
+    0.0938,
+    0.0462,
+    0.1843,
+    0.016,
+    0.0905
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=True, m.ccp_alpha=0.000239, m.max_depth=6, m.min_samples_leaf=104",
+    0.0929,
+    0.1113,
+    0.1542,
+    0.0607,
+    0.0612
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=False, m.n_neighbors=54, m.weights=distance, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.0918,
+    0.0538,
+    1.0,
+    0.0123,
+    0.9082
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.C=3.14, m.gamma=0.000434, scale=RobustScaler, select=passthrough",
+    0.0907,
+    0.0369,
+    0.4573,
+    0.1288,
+    0.3666
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=True, m.C=0.0493, m.gamma=0.000529, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.0855,
+    0.0392,
+    0.2601,
+    0.2589,
+    0.1746
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.C=0.505, m.gamma=0.000124, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.0846,
+    0.046,
+    0.1134,
+    0.1507,
+    0.0288
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.C=0.0177, m.penalty=l2, scale=RobustScaler, select=SelectKBest(k=20)",
+    0.0842,
+    0.0557,
+    0.0924,
+    0.0258,
+    0.0082
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=True, f.temperature=none, f.window=False, m.ccp_alpha=0.00266, m.max_depth=10, m.min_samples_leaf=94",
+    0.0829,
+    0.0468,
+    0.1326,
+    0.031,
+    0.0497
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.n_neighbors=93, m.weights=uniform, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.0811,
+    0.0357,
+    0.1277,
+    0.0091,
+    0.0465
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.C=0.00481, m.penalty=l1, scale=RobustScaler, select=passthrough",
+    0.0804,
+    0.0608,
+    0.0958,
+    0.048,
+    0.0154
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=True, m.ccp_alpha=0.00157, m.max_depth=6, m.min_samples_leaf=107",
+    0.0782,
+    0.0356,
+    0.2121,
+    0.0446,
+    0.1339
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=False, m.n_neighbors=86, m.weights=uniform, scale=StandardScaler, select=SelectKBest(k=20)",
+    0.0779,
+    0.0635,
+    0.0777,
+    0.0091,
+    -0.0002
+   ],
+   [
+    "SVM (RBF kernel)",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.C=0.0105, m.gamma=0.000117, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.0779,
+    0.0353,
+    0.1003,
+    0.2057,
+    0.0224
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=False, m.ccp_alpha=0.000416, m.max_depth=9, m.min_samples_leaf=128",
+    0.0763,
+    0.0337,
+    0.1537,
+    0.0169,
+    0.0774
+   ],
+   [
+    "Logistic regression",
+    "f.burst=False, f.residual=False, f.temperature=none, f.window=False, m.C=0.0165, m.penalty=l1, scale=RobustScaler, select=SelectKBest(k=40)",
+    0.0735,
+    0.0489,
+    0.0812,
+    0.0202,
+    0.0078
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=False, m.ccp_alpha=0.000303, m.max_depth=10, m.min_samples_leaf=19",
+    0.0723,
+    0.0576,
+    0.4206,
+    0.0338,
+    0.3483
+   ],
+   [
+    "Decision tree",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.ccp_alpha=0.00138, m.max_depth=2, m.min_samples_leaf=9",
+    0.0663,
+    0.024,
+    0.1147,
+    0.0427,
+    0.0484
+   ],
+   [
+    "k-nearest neighbours",
+    "f.burst=True, f.residual=False, f.temperature=mean, f.window=False, m.n_neighbors=82, m.weights=uniform, scale=RobustScaler, select=SelectKBest(k=10)",
+    0.0652,
+    0.0374,
+    0.0808,
+    0.0125,
+    0.0155
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=False, m.ccp_alpha=3.97e-05, m.max_depth=8, m.min_samples_leaf=68",
+    0.0652,
+    0.0573,
+    0.1744,
+    0.017,
+    0.1093
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=False, f.temperature=mean, f.window=False, m.ccp_alpha=1.48e-05, m.max_depth=9, m.min_samples_leaf=42",
+    0.065,
+    0.0659,
+    0.2373,
+    0.0179,
+    0.1723
+   ],
+   [
+    "Decision tree",
+    "f.burst=False, f.residual=True, f.temperature=mean, f.window=False, m.ccp_alpha=0.000223, m.max_depth=2, m.min_samples_leaf=52",
+    0.0569,
+    0.0369,
+    0.0873,
+    0.0226,
+    0.0304
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=True, f.temperature=mean, f.window=True, m.C=0.00115, m.penalty=l1, scale=RobustScaler, select=passthrough",
+    0.0491,
+    0.0245,
+    0.0541,
+    0.0426,
+    0.005
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.C=0.00241, m.penalty=l1, scale=StandardScaler, select=SelectKBest(k=20)",
+    0.0442,
+    0.027,
+    0.0571,
+    0.0183,
+    0.0129
+   ],
+   [
+    "Logistic regression",
+    "f.burst=True, f.residual=False, f.temperature=none, f.window=False, m.C=0.00107, m.penalty=l1, scale=StandardScaler, select=SelectKBest(k=40)",
+    0.0363,
+    0.0144,
+    0.0291,
+    0.0128,
+    -0.0072
+   ]
+  ],
+  "index": [
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Random forest",
+   "Gradient boosting (HGB)",
+   "Extra trees",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "Random forest",
+   "Random forest",
+   "Extra trees",
+   "Extra trees",
+   "Gradient boosting (HGB)",
+   "Random forest",
+   "Random forest",
+   "Gradient boosting (HGB)",
+   "Extra trees",
+   "Random forest",
+   "Extra trees",
+   "Gradient boosting (HGB)",
+   "Extra trees",
+   "Gradient boosting (HGB)",
+   "Random forest",
+   "Extra trees",
+   "Gradient boosting (HGB)",
+   "Extra trees",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "k-nearest neighbours",
+   "Extra trees",
+   "Gradient boosting (HGB)",
+   "Random forest",
+   "Gradient boosting (HGB)",
+   "Gradient boosting (HGB)",
+   "SVM (RBF kernel)",
+   "k-nearest neighbours",
+   "Gradient boosting (HGB)",
+   "Random forest",
+   "Random forest",
+   "k-nearest neighbours",
+   "Logistic regression",
+   "Logistic regression",
+   "Logistic regression",
+   "Extra trees",
+   "SVM (RBF kernel)",
+   "Logistic regression",
+   "Random forest",
+   "Logistic regression",
+   "Logistic regression",
+   "Extra trees",
+   "Logistic regression",
+   "Logistic regression",
+   "k-nearest neighbours",
+   "Random forest",
+   "Logistic regression",
+   "k-nearest neighbours",
+   "k-nearest neighbours",
+   "Extra trees",
+   "Decision tree",
+   "Decision tree",
+   "k-nearest neighbours",
+   "Logistic regression",
+   "SVM (RBF kernel)",
+   "Logistic regression",
+   "Logistic regression",
+   "Decision tree",
+   "k-nearest neighbours",
+   "Logistic regression",
+   "Logistic regression",
+   "Logistic regression",
+   "k-nearest neighbours",
+   "Decision tree",
+   "Logistic regression",
+   "SVM (RBF kernel)",
+   "Logistic regression",
+   "Logistic regression",
+   "k-nearest neighbours",
+   "Decision tree",
+   "Decision tree",
+   "Decision tree",
+   "Decision tree",
+   "k-nearest neighbours",
+   "Decision tree",
+   "SVM (RBF kernel)",
+   "Logistic regression",
+   "Decision tree",
+   "SVM (RBF kernel)",
+   "Decision tree",
+   "Decision tree",
+   "k-nearest neighbours",
+   "SVM (RBF kernel)",
+   "SVM (RBF kernel)",
+   "SVM (RBF kernel)",
+   "Logistic regression",
+   "Decision tree",
+   "k-nearest neighbours",
+   "Logistic regression",
+   "Decision tree",
+   "k-nearest neighbours",
+   "SVM (RBF kernel)",
+   "Decision tree",
+   "Logistic regression",
+   "Decision tree",
+   "Decision tree",
+   "k-nearest neighbours",
+   "Decision tree",
+   "Decision tree",
+   "Decision tree",
+   "Logistic regression",
+   "Logistic regression",
+   "Logistic regression"
+  ]
+ },
+ "s5_paired_differences": {
+  "columns": [
+   "comparison",
+   "\u0394 PR-AUC (test)",
+   "95% CI (paired cycle bootstrap)",
+   "significant"
+  ],
+  "rows": [
+   [
+    "AutoML - B2 logistic regression",
+    0.3146,
+    "[0.048, 0.571]",
+    true
+   ],
+   [
+    "AutoML - B1 cycle position",
+    0.3063,
+    "[0.021, 0.608]",
+    true
+   ]
+  ],
+  "index": [
+   "AutoML - B2 logistic regression",
+   "AutoML - B1 cycle position"
+  ]
+ },
+ "s5_permutation_importance": {
+  "columns": [
+   "feature",
+   "importance",
+   "sd"
+  ],
+  "rows": [
+   [
+    "secs_since_last_gl",
+    0.4458,
+    0.0334
+   ],
+   [
+    "Current_J1_rmean5",
+    0.1104,
+    0.0217
+   ],
+   [
+    "pos",
+    0.0842,
+    0.008
+   ],
+   [
+    "Current_J1_rstd5",
+    0.0713,
+    0.0172
+   ],
+   [
+    "Current_J3_rmean5",
+    0.0606,
+    0.0443
+   ],
+   [
+    "Current_J5_rstd5",
+    0.0336,
+    0.0104
+   ],
+   [
+    "Current_J3_rstd5",
+    0.0334,
+    0.009
+   ],
+   [
+    "Current_J2_rstd5",
+    0.0193,
+    0.0214
+   ],
+   [
+    "Current_J5_rmean5",
+    0.0162,
+    0.0116
+   ],
+   [
+    "Current_J1",
+    0.0151,
+    0.0216
+   ],
+   [
+    "Current_J1_lag2",
+    0.015,
+    0.0039
+   ],
+   [
+    "Current_J3_diff1",
+    0.0148,
+    0.0024
+   ],
+   [
+    "abs_speed",
+    0.0138,
+    0.0103
+   ],
+   [
+    "Tool_current_lag2",
+    0.0129,
+    0.0065
+   ],
+   [
+    "Current_J0_rstd5",
+    0.0122,
+    0.0056
+   ],
+   [
+    "Current_J5_diff1",
+    0.0116,
+    0.0027
+   ],
+   [
+    "Current_J3",
+    0.0096,
+    0.0065
+   ],
+   [
+    "Current_J5_lag1",
+    0.0082,
+    0.0025
+   ],
+   [
+    "abs_speed_rmean5",
+    0.0073,
+    0.004
+   ],
+   [
+    "abs_speed_lag1",
+    0.0072,
+    0.0049
+   ],
+   [
+    "Tool_current_rstd5",
+    0.0072,
+    0.0196
+   ],
+   [
+    "Current_J0_lag2",
+    0.0069,
+    0.008
+   ],
+   [
+    "abs_speed_diff1",
+    0.0068,
+    0.0024
+   ],
+   [
+    "Current_J5",
+    0.0066,
+    0.0102
+   ],
+   [
+    "Tool_current",
+    0.0065,
+    0.0018
+   ],
+   [
+    "Tool_current_lag1",
+    0.0057,
+    0.002
+   ],
+   [
+    "Current_J4_lag2",
+    0.0056,
+    0.0029
+   ],
+   [
+    "abs_speed_rstd5",
+    0.0047,
+    0.0047
+   ],
+   [
+    "Current_J2_rmean5",
+    0.0047,
+    0.007
+   ],
+   [
+    "n_gl_last_120s",
+    0.0045,
+    0.0016
+   ],
+   [
+    "Current_J4",
+    0.0045,
+    0.0051
+   ],
+   [
+    "Current_J0_diff1",
+    0.0039,
+    0.0011
+   ],
+   [
+    "Speed_J1",
+    0.0036,
+    0.0018
+   ],
+   [
+    "Speed_J5",
+    0.0034,
+    0.0042
+   ],
+   [
+    "Current_J0_lag1",
+    0.0034,
+    0.0022
+   ],
+   [
+    "Current_J4_rstd5",
+    0.0033,
+    0.0054
+   ],
+   [
+    "Current_J2",
+    0.0027,
+    0.0021
+   ],
+   [
+    "Speed_J4",
+    0.0025,
+    0.0017
+   ],
+   [
+    "Current_J3_lag2",
+    0.0017,
+    0.0046
+   ],
+   [
+    "Current_J4_diff1",
+    0.0016,
+    0.0026
+   ],
+   [
+    "abs_speed_lag2",
+    0.0015,
+    0.0045
+   ],
+   [
+    "Current_J2_lag1",
+    0.0014,
+    0.0017
+   ],
+   [
+    "Speed_J0",
+    0.0014,
+    0.002
+   ],
+   [
+    "Current_J4_lag1",
+    0.0009,
+    0.0056
+   ],
+   [
+    "Current_J1_lag1",
+    0.0006,
+    0.0016
+   ],
+   [
+    "Speed_J2",
+    0.0004,
+    0.0015
+   ],
+   [
+    "Tool_current_diff1",
+    0.0003,
+    0.0015
+   ],
+   [
+    "Current_J4_rmean5",
+    -0.0001,
+    0.0055
+   ],
+   [
+    "Current_J5_lag2",
+    -0.0004,
+    0.0032
+   ],
+   [
+    "Current_J1_diff1",
+    -0.0006,
+    0.0024
+   ],
+   [
+    "Current_J0_rmean5",
+    -0.0006,
+    0.004
+   ],
+   [
+    "Speed_J3",
+    -0.0011,
+    0.0014
+   ],
+   [
+    "Current_J0",
+    -0.0013,
+    0.0058
+   ],
+   [
+    "Current_J3_lag1",
+    -0.0017,
+    0.0015
+   ],
+   [
+    "Current_J2_diff1",
+    -0.0018,
+    0.0023
+   ],
+   [
+    "Tool_current_rmean5",
+    -0.0067,
+    0.0076
+   ],
+   [
+    "Current_J2_lag2",
+    -0.0077,
+    0.0058
+   ]
+  ],
+  "index": [
+   "secs_since_last_gl",
+   "Current_J1_rmean5",
+   "pos",
+   "Current_J1_rstd5",
+   "Current_J3_rmean5",
+   "Current_J5_rstd5",
+   "Current_J3_rstd5",
+   "Current_J2_rstd5",
+   "Current_J5_rmean5",
+   "Current_J1",
+   "Current_J1_lag2",
+   "Current_J3_diff1",
+   "abs_speed",
+   "Tool_current_lag2",
+   "Current_J0_rstd5",
+   "Current_J5_diff1",
+   "Current_J3",
+   "Current_J5_lag1",
+   "abs_speed_rmean5",
+   "abs_speed_lag1",
+   "Tool_current_rstd5",
+   "Current_J0_lag2",
+   "abs_speed_diff1",
+   "Current_J5",
+   "Tool_current",
+   "Tool_current_lag1",
+   "Current_J4_lag2",
+   "abs_speed_rstd5",
+   "Current_J2_rmean5",
+   "n_gl_last_120s",
+   "Current_J4",
+   "Current_J0_diff1",
+   "Speed_J1",
+   "Speed_J5",
+   "Current_J0_lag1",
+   "Current_J4_rstd5",
+   "Current_J2",
+   "Speed_J4",
+   "Current_J3_lag2",
+   "Current_J4_diff1",
+   "abs_speed_lag2",
+   "Current_J2_lag1",
+   "Speed_J0",
+   "Current_J4_lag1",
+   "Current_J1_lag1",
+   "Speed_J2",
+   "Tool_current_diff1",
+   "Current_J4_rmean5",
+   "Current_J5_lag2",
+   "Current_J1_diff1",
+   "Current_J0_rmean5",
+   "Speed_J3",
+   "Current_J0",
+   "Current_J3_lag1",
+   "Current_J2_diff1",
+   "Tool_current_rmean5",
+   "Current_J2_lag2"
+  ]
+ },
+ "s5_test_events": {
+  "columns": [
+   "event",
+   "onset (UTC)",
+   "position in cycle (s)",
+   "duration (s)",
+   "s since previous loss",
+   "max score before onset",
+   "detected (<= 30 FA/h)"
+  ],
+  "rows": [
+   [
+    64,
+    "15:18:10",
+    20,
+    4,
+    25.117,
+    0.001,
+    false
+   ],
+   [
+    65,
+    "15:20:20",
+    35,
+    5,
+    126.637,
+    0.232,
+    true
+   ],
+   [
+    66,
+    "15:25:49",
+    17,
+    1,
+    324.874,
+    0.015,
+    false
+   ],
+   [
+    67,
+    "15:28:12",
+    34,
+    1,
+    143.874,
+    0.731,
+    true
+   ],
+   [
+    68,
+    "15:28:41",
+    19,
+    2,
+    28.137,
+    0.968,
+    true
+   ],
+   [
+    69,
+    "15:29:31",
+    20,
+    5,
+    49.284,
+    0.012,
+    false
+   ],
+   [
+    70,
+    "15:29:39",
+    28,
+    1,
+    4.022,
+    0.017,
+    false
+   ],
+   [
+    71,
+    "15:34:36",
+    3,
+    2,
+    296.676,
+    0.005,
+    false
+   ],
+   [
+    72,
+    "15:34:49",
+    16,
+    4,
+    12.072,
+    0.777,
+    true
+   ]
+  ],
+  "index": [
+   "64",
+   "65",
+   "66",
+   "67",
+   "68",
+   "69",
+   "70",
+   "71",
+   "72"
+  ]
+ },
+ "s5_test_results": {
+  "columns": [
+   "model",
+   "operating point",
+   "threshold",
+   "PR-AUC",
+   "ROC-AUC",
+   "precision",
+   "recall",
+   "F1",
+   "balanced acc",
+   "TP",
+   "FP",
+   "FN",
+   "TN",
+   "events",
+   "events detected",
+   "event recall",
+   "mean warning (s)",
+   "false-alarm episodes",
+   "false alarms / hour",
+   "PR-AUC 95% CI",
+   "event recall 95% CI"
+  ],
+  "rows": [
+   [
+    "AutoML: Gradient boosting (HGB)",
+    "F1-optimal",
+    0.1367,
+    0.372,
+    0.842,
+    0.5714,
+    0.3077,
+    0.4,
+    0.6509,
+    8,
+    6,
+    18,
+    1014,
+    9,
+    4,
+    0.4444,
+    2.2655,
+    6,
+    20.6501,
+    "[0.080, 0.654]",
+    "[0.12, 0.83]"
+   ],
+   [
+    "AutoML: Gradient boosting (HGB)",
+    "<= 30 FA/h",
+    0.0573,
+    0.372,
+    0.842,
+    0.5,
+    0.3462,
+    0.4091,
+    0.6687,
+    9,
+    9,
+    17,
+    1011,
+    9,
+    4,
+    0.4444,
+    2.7668,
+    8,
+    27.5335,
+    "[0.080, 0.654]",
+    "[0.12, 0.83]"
+   ],
+   [
+    "B1 cycle position",
+    "F1-optimal",
+    0.0478,
+    0.0657,
+    0.7548,
+    0.0613,
+    0.6154,
+    0.1115,
+    0.6876,
+    16,
+    245,
+    10,
+    775,
+    9,
+    7,
+    0.7778,
+    2.8716,
+    88,
+    302.8681,
+    "[0.022, 0.136]",
+    "[0.33, 1.00]"
+   ],
+   [
+    "B1 cycle position",
+    "<= 30 FA/h",
+    0.0777,
+    0.0657,
+    0.7548,
+    0.0,
+    0.0,
+    0.0,
+    0.5,
+    0,
+    0,
+    26,
+    1020,
+    9,
+    0,
+    0.0,
+    null,
+    0,
+    0.0,
+    "[0.022, 0.136]",
+    "[0.00, 0.00]"
+   ],
+   [
+    "B2 logistic regression",
+    "F1-optimal",
+    0.5152,
+    0.0574,
+    0.7591,
+    0.0464,
+    0.4231,
+    0.0837,
+    0.6008,
+    11,
+    226,
+    15,
+    794,
+    9,
+    6,
+    0.6667,
+    2.3465,
+    99,
+    340.7266,
+    "[0.025, 0.132]",
+    "[0.25, 1.00]"
+   ],
+   [
+    "B2 logistic regression",
+    "<= 30 FA/h",
+    0.8724,
+    0.0574,
+    0.7591,
+    0.0909,
+    0.0385,
+    0.0541,
+    0.5143,
+    1,
+    10,
+    25,
+    1010,
+    9,
+    1,
+    0.1111,
+    1.003,
+    9,
+    30.9751,
+    "[0.025, 0.132]",
+    "[0.00, 0.40]"
+   ]
+  ],
+  "index": [
+   "AutoML: Gradient boosting (HGB)",
+   "AutoML: Gradient boosting (HGB)",
+   "B1 cycle position",
+   "B1 cycle position",
+   "B2 logistic regression",
+   "B2 logistic regression"
+  ]
+ }
+}

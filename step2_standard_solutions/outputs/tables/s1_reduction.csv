@@ -1,0 +1,5 @@
+analysis,result
+PCA on the 6 temperatures,PC1 explains 99.85 % of the variance
+PCA on the 19 standardised sensors,"7 components for 90 %, 9 for 95 %"
+Max VIF before reduction,8988 (Temperature_J2)
+Max VIF after temperatures -> mean,165.3 (Speed_J3)

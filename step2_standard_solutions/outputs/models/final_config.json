@@ -1,0 +1,17 @@
+{
+  "family": "Gradient boosting (HGB)",
+  "params": {
+    "features__burst": true,
+    "features__residual": true,
+    "features__temperature": "none",
+    "features__window": true,
+    "model__class_weight": "balanced",
+    "model__l2_regularization": 0.003730610475453594,
+    "model__learning_rate": 0.056392399916675585,
+    "model__max_iter": 271,
+    "model__max_leaf_nodes": 40,
+    "model__min_samples_leaf": 32
+  },
+  "horizon": 3,
+  "window": 5
+}

@@ -1,0 +1,7 @@
+variant,CV PR-AUC,CV sd,val PR-AUC
+final configuration,0.4375,0.1836,0.6041
+without window,0.3843,0.133,0.4946
+without residual,0.4461,0.1831,0.6057
+without burst,0.3715,0.2154,0.2307
+temperature: mean,0.4253,0.1906,0.5037
+without position in cycle,0.4288,0.187,0.5779

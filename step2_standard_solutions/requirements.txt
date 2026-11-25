@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.6
+imbalanced-learn>=0.13   # only used in 04_sota_benchmark.py to re-run the published SMOTE protocols
+matplotlib>=3.9
+joblib>=1.4

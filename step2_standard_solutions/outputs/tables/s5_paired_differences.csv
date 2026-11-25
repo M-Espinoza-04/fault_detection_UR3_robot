@@ -1,0 +1,3 @@
+comparison,Δ PR-AUC (test),95% CI (paired cycle bootstrap),significant
+AutoML - B2 logistic regression,0.3146,"[0.048, 0.571]",True
+AutoML - B1 cycle position,0.3063,"[0.021, 0.608]",True

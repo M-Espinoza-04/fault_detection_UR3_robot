@@ -1,0 +1,6 @@
+horizon N (s),predictable rows,positives,prevalence %,imbalance ratio,events announced
+1,7090,69,0.97,1:102,69
+2,7086,140,1.98,1:50,71
+3,7082,209,2.95,1:33,71
+4,7078,279,3.94,1:24,71
+5,7074,347,4.91,1:19,71

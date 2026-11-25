@@ -1,0 +1,21 @@
+,VIF (19 raw sensors),VIF (temperatures -> mean)
+Current_J0,3.3,3.3
+Current_J1,3.0,3.0
+Current_J2,4.5,4.5
+Current_J3,2.8,2.8
+Current_J4,3.0,3.0
+Current_J5,2.5,2.5
+Speed_J0,27.9,27.8
+Speed_J1,1.6,1.6
+Speed_J2,2.6,2.6
+Speed_J3,165.9,165.3
+Speed_J4,3.4,3.4
+Speed_J5,129.2,128.7
+Temperature_J0,2935.9,
+Temperature_J1,8357.1,
+Temperature_J2,8988.3,
+Temperature_J3,4160.9,
+Temperature_J4,3499.8,
+Temperature_J5,1541.3,
+Tool_current,1.1,1.1
+temp_mean,,1.0

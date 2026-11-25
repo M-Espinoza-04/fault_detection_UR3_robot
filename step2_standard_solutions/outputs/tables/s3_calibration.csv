@@ -1,0 +1,4 @@
+variant,PR-AUC,Brier,log-loss,mean predicted %,observed rate %
+balanced weights (B2),0.06,0.1535,0.4653,28.4249,3.016
+no class weights,0.0488,0.0294,0.1467,2.3809,3.016
+balanced + sigmoid recalibration,0.0494,0.0293,0.1392,2.3805,3.016

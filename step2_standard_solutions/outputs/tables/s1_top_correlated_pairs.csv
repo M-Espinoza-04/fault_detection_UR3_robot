@@ -1,0 +1,26 @@
+var 1,var 2,pearson,spearman
+Temperature_J0,Temperature_J1,0.999,0.998
+Temperature_J1,Temperature_J2,1.0,0.995
+Temperature_J0,Temperature_J2,0.999,0.995
+Temperature_J2,Temperature_J3,0.999,0.97
+Temperature_J1,Temperature_J3,0.998,0.967
+Temperature_J0,Temperature_J3,0.997,0.962
+Temperature_J4,Temperature_J5,0.999,0.941
+Temperature_J3,Temperature_J4,1.0,0.936
+Temperature_J2,Temperature_J4,0.999,0.893
+Temperature_J1,Temperature_J4,0.998,0.887
+Temperature_J0,Temperature_J4,0.996,0.884
+Temperature_J3,Temperature_J5,0.999,0.872
+Current_J5,Speed_J4,0.649,0.854
+Temperature_J2,Temperature_J5,0.998,0.834
+Temperature_J1,Temperature_J5,0.998,0.831
+Temperature_J0,Temperature_J5,0.995,0.828
+Speed_J2,Speed_J3,-0.408,-0.738
+Speed_J3,Speed_J5,-0.895,-0.688
+Current_J0,Current_J4,-0.756,-0.655
+Current_J3,Speed_J3,0.402,0.646
+Speed_J2,Speed_J5,0.539,0.573
+Current_J1,Speed_J0,0.404,0.555
+Current_J2,Speed_J5,0.448,0.547
+Current_J0,Speed_J2,0.357,0.544
+Current_J1,Current_J2,0.646,0.524

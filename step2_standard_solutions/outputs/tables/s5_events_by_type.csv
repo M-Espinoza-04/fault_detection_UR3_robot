@@ -1,0 +1,5 @@
+set,type,events,detected,event recall
+test,follow-up (< 60 s after a loss),5,2,0.4
+test,isolated,4,2,0.5
+val,follow-up (< 60 s after a loss),8,6,0.75
+val,isolated,4,2,0.5

@@ -1,0 +1,25 @@
+variable,type,unit,role,comment
+Num,integer,-,identifier,"row number, dropped"
+Timestamp,datetime (UTC),-,index,"used for ordering, breaks and splits only"
+Current_J0,continuous,A,feature,joint motor current
+Current_J1,continuous,A,feature,joint motor current
+Current_J2,continuous,A,feature,joint motor current
+Current_J3,continuous,A,feature,joint motor current
+Current_J4,continuous,A,feature,joint motor current
+Current_J5,continuous,A,feature,joint motor current
+Temperature_J0,continuous,°C,feature (reduced),"joint temperature, the 6 are replaced by their mean"
+Temperature_J1,continuous,°C,feature (reduced),"joint temperature, the 6 are replaced by their mean"
+Temperature_J2,continuous,°C,feature (reduced),"joint temperature, the 6 are replaced by their mean"
+Temperature_J3,continuous,°C,feature (reduced),"joint temperature, the 6 are replaced by their mean"
+Temperature_J4,continuous,°C,feature (reduced),"joint temperature, the 6 are replaced by their mean"
+Temperature_J5,continuous,°C,feature (reduced),"joint temperature, the 6 are replaced by their mean"
+Speed_J0,continuous,rad/s,feature,joint speed
+Speed_J1,continuous,rad/s,feature,joint speed
+Speed_J2,continuous,rad/s,feature,joint speed
+Speed_J3,continuous,rad/s,feature,joint speed
+Speed_J4,continuous,rad/s,feature,joint speed
+Speed_J5,continuous,rad/s,feature,joint speed
+Tool_current,continuous,A,feature,gripper current
+cycle,integer,-,structure,cycle counter -> cycle_id and position in cycle; not a feature (encodes time)
+Robot_ProtectiveStop,binary,-,excluded,"other fault, unrelated to grip loss (Fisher p = 0.25)"
+grip_lost,binary,-,target source,y_t = 1 if a grip loss starts within the next N = 3 s

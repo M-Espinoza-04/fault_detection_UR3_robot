@@ -1,0 +1,11 @@
+check,finding,action
+Rows / columns in the file,"7409 rows, 35 columns (11 completely empty)",Drop the empty columns
+Column names,1 name(s) with a trailing space: ['cycle ']; 'Temperature_T0' is joint J0,"Strip names, rename T0 -> J0"
+Labels stored as text,grip_lost / Robot_ProtectiveStop are 'VRAI'/'FAUX' strings,Map to 0/1
+Timestamps,863 timestamps wrapped in quotes,"Strip quotes, parse as UTC"
+Empty sensor rows,54 rows without sensor values (8 carry a placeholder Current_J0 = 1.0); PS label missing on the same rows; grip_lost = 0 on all of them,"Keep in the time line, never predict on them, causal ffill (<= 2 s) for windows"
+Duplicated rows,"4 rows involved, all of them empty rows sharing a cycle number; 0 duplicated measurements",Nothing to remove
+Sampling,median interval 1.005 s; 24 intervals of ~2 s (one record skipped),Lags are counted in rows (~ seconds)
+Recording breaks,"9 s, 31 s, 18814 s -> 4 continuous segments",No lag / window / label across a break
+Cycle counter,decreases 1 time(s): 233 -> 224 between Num 6033 and Num 6034,Cycles identified by changes of the counter
+Grip-loss label,"243 rows, 77 raw events; 5 pairs separated by only 1-2 normal rows",Debounce: merge gaps <= 2 rows -> 72 events

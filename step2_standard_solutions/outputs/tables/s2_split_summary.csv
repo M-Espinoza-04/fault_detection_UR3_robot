@@ -1,0 +1,5 @@
+set,rows,positives (y=1),prevalence %,events announced,cycles,start (UTC),end (UTC),mean temp J0 (°C)
+train,4961,149,3.0,50,183,08:17:25,14:58:51,34.0
+embargo,14,2,14.29,1,2,14:58:52,15:17:49,37.1
+val,1061,32,3.02,12,36,14:59:00,15:17:41,37.1
+test,1046,26,2.49,9,30,15:17:50,15:36:03,37.2
