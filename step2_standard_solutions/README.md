@@ -18,6 +18,13 @@ the environment variable `UR3_CSV`. Scripts contain `# %%` cells and open as not
 To rebuild the Word report after a run: `python report/collect_tables.py && node report/build_report.js`
 (needs the `docx` npm package).
 
+## Single-notebook version
+
+`step2_standard_solutions_notebook.ipynb` contains **the same code merged in one self-contained notebook**
+(toolbox + steps 1–5), with an explanation before each block and a reading of each result. It is saved with its
+outputs; *Run All* re-executes everything (≈ 25 min, or set `C.FAST = True`) and writes to `outputs_notebook/`,
+so it never overwrites the results of the scripts.
+
 ## Contents
 
 | Path | What it does |
